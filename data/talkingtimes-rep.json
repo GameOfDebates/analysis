@@ -1,0 +1,529 @@
+{
+    "data": [
+        {
+            "moderator": "Fox News",
+            "party": "Republican",
+            "date": "08/06/2015",
+            "candidates": [
+                {
+                    "name": "Donald Trump",
+                    "minutes": 10,
+                    "seconds": 30
+                },
+                {
+                    "name": "Jeb Bush",
+                    "minutes": 8,
+                    "seconds": 33
+                },
+                {
+                    "name": "Mike Huckabee",
+                    "minutes": 6,
+                    "seconds": 32
+                },
+                {
+                    "name": "Ben Carson",
+                    "minutes": 6,
+                    "seconds": 28
+                },
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 6,
+                    "seconds": 28
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 6,
+                    "seconds": 25
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 6,
+                    "seconds": 22
+                },
+                {
+                    "name": "Chris Christie",
+                    "minutes": 6,
+                    "seconds": 3
+                },
+                {
+                    "name": "Scott Walker",
+                    "minutes": 5,
+                    "seconds": 43
+                },
+                {
+                    "name": "Rand Paul",
+                    "minutes": 4,
+                    "seconds": 51
+                }
+            ],
+            "source": "http://www.newsweek.com/donald-trump-gets-most-gop-debate-talk-time-rand-paul-least-360724",
+            "numCandidates": 10,
+            "duration": 120
+        },
+        {
+            "moderator": "CNN",
+            "party": "Republican",
+            "date": "09/16/2015",
+            "candidates": [
+                {
+                    "name": "Scott Walker",
+                    "minutes": 8,
+                    "seconds": 0
+                },
+                {
+                    "name": "Mike Huckabee",
+                    "minutes": 9,
+                    "seconds": 18
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 9,
+                    "seconds": 30
+                },
+                {
+                    "name": "Rand Paul",
+                    "minutes": 10,
+                    "seconds": 30
+                },
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 11,
+                    "seconds": 0
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 11,
+                    "seconds": 30
+                },
+                {
+                    "name": "Chris Christie",
+                    "minutes": 12,
+                    "seconds": 18
+                },
+                {
+                    "name": "Ben Carson",
+                    "minutes": 12,
+                    "seconds": 30
+                },
+                {
+                    "name": "Carly Fiorina",
+                    "minutes": 13,
+                    "seconds": 0
+                },
+                {
+                    "name": "Jeb Bush",
+                    "minutes": 15,
+                    "seconds": 18
+                },
+                {
+                    "name": "Donald Trump",
+                    "minutes": 19,
+                    "seconds": 30
+                }
+            ],
+            "source": "http://www.cnn.com/2015/09/17/politics/republican-debate-talk-times/",
+            "numCandidates": 11,
+            "duration": 180
+        },
+        {
+            "moderator": "CNBC",
+            "party": "Republican",
+            "date": "10/28/2015",
+            "candidates": [
+                {
+                    "name": "Carly Fiorina",
+                    "minutes": 10,
+                    "seconds": 13
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 9,
+                    "seconds": 52
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 9,
+                    "seconds": 42
+                },
+                {
+                    "name": "Donald Trump",
+                    "minutes": 9,
+                    "seconds": 31
+                },
+                {
+                    "name": "Chris Christie",
+                    "minutes": 8,
+                    "seconds": 21
+                },
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 8,
+                    "seconds": 7
+                },
+                {
+                    "name": "Mike Huckabee",
+                    "minutes": 7,
+                    "seconds": 48
+                },
+                {
+                    "name": "Ben Carson",
+                    "minutes": 7,
+                    "seconds": 31
+                },
+                {
+                    "name": "Jeb Bush",
+                    "minutes": 7,
+                    "seconds": 3
+                },
+                {
+                    "name": "Rand Paul",
+                    "minutes": 6,
+                    "seconds": 22
+                }
+            ],
+            "source": "http://time.com/4092530/republican-debate-speaking-time/",
+            "numCandidates": 10,
+            "duration": 120
+        },
+        {
+            "moderator": "Fox Business",
+            "party": "Republican",
+            "date": "11/10/2015",
+            "candidates": [
+                {
+                    "name": "Donald Trump",
+                    "minutes": 11,
+                    "seconds": 36
+                },
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 13,
+                    "seconds": 25
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 10,
+                    "seconds": 28
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 12,
+                    "seconds": 22
+                },
+                {
+                    "name": "Ben Carson",
+                    "minutes": 9,
+                    "seconds": 25
+                }
+            ],
+            "source": "http://presidential-candidates.insidegov.com/stories/11155/republican-debate-super-tuesday",
+            "numCandidates": 8,
+            "duration": 120
+        },
+        {
+            "moderator": "CNN",
+            "party": "Republican",
+            "date": "12/15/2015",
+            "candidates": [
+                {
+                    "name": "Donald Trump",
+                    "minutes": 16,
+                    "seconds": 12
+                },
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 17,
+                    "seconds": 18
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 14,
+                    "seconds": 1
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 8,
+                    "seconds": 57
+                },
+                {
+                    "name": "Ben Carson",
+                    "minutes": 10,
+                    "seconds": 33
+                }
+            ],
+            "source": "http://presidential-candidates.insidegov.com/stories/11155/republican-debate-super-tuesday",
+            "numCandidates": 9,
+            "duration": 120
+        },
+        {
+            "moderator": "Fox Business",
+            "party": "Republican",
+            "date": "01/14/2016",
+            "candidates": [
+                {
+                    "name": "Donald Trump",
+                    "minutes": 17,
+                    "seconds": 12
+                },
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 17,
+                    "seconds": 52
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 14,
+                    "seconds": 19
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 12,
+                    "seconds": 26
+                },
+                {
+                    "name": "Ben Carson",
+                    "minutes": 8,
+                    "seconds": 26
+                },
+                {
+                    "name": "Chris Christie",
+                    "minutes": 14,
+                    "seconds": 25
+                },
+                {
+                    "name": "Jeb Bush",
+                    "minutes": 12,
+                    "seconds": 36
+                }
+            ],
+            "source": "http://www.npr.org/2016/01/14/463089692/on-the-clock-whos-talking-the-most-in-tonights-debate",
+            "numCandidates": 7,
+            "duration": 120
+        },
+        {
+            "moderator": "Fox News",
+            "party": "Republican",
+            "date": "01/28/2016",
+            "candidates": [
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 13,
+                    "seconds": 11
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 13,
+                    "seconds": 31
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 8,
+                    "seconds": 52
+                },
+                {
+                    "name": "Ben Carson",
+                    "minutes": 6,
+                    "seconds": 11
+                },
+                {
+                    "name": "Jeb Bush",
+                    "minutes": 9,
+                    "seconds": 24
+                },
+                {
+                    "name": "Chris Christie",
+                    "minutes": 8,
+                    "seconds": 22
+                },
+                {
+                    "name": "Rand Paul",
+                    "minutes": 7,
+                    "seconds": 56
+                }
+            ],
+            "source": "http://www.npr.org/2016/01/28/464755079/on-the-clock-whos-getting-the-most-speaking-time-in-tonights-debate",
+            "numCandidates": 7,
+            "duration": 120
+        },
+        {
+            "moderator": "ABC",
+            "party": "Republican",
+            "date": "02/06/2016",
+            "candidates": [
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 17,
+                    "seconds": 34
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 18,
+                    "seconds": 14
+                },
+                {
+                    "name": "Donald Trump",
+                    "minutes": 15,
+                    "seconds": 32
+                },
+                {
+                    "name": "Chris Christie",
+                    "minutes": 12,
+                    "seconds": 53
+                },
+                {
+                    "name": "Jeb Bush",
+                    "minutes": 12,
+                    "seconds": 30
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 10,
+                    "seconds": 33
+                },
+                {
+                    "name": "Ben Carson",
+                    "minutes": 8,
+                    "seconds": 46
+                }
+            ],
+            "source": "http://www.npr.org/2016/02/06/465858684/on-the-clock-whos-getting-the-most-talking-time-in-tonights-debate",
+            "numCandidates": 7,
+            "duration": 120
+        },
+        {
+            "moderator": "CBS",
+            "party": "Republican",
+            "date": "02/13/2016",
+            "candidates": [
+                {
+                    "name": "Donald Trump",
+                    "minutes": 15,
+                    "seconds": 38
+                },
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 14,
+                    "seconds": 45
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 10,
+                    "seconds": 38
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 10,
+                    "seconds": 3
+                },
+                {
+                    "name": "Ben Carson",
+                    "minutes": 8,
+                    "seconds": 42
+                },
+                {
+                    "name": "Jeb Bush",
+                    "minutes": 11,
+                    "seconds": 15
+                }
+            ],
+            "source": "http://www.npr.org/2016/02/13/466678286/on-the-clock-whos-getting-the-most-talking-time-in-tonights-debate",
+            "numCandidates": 6,
+            "duration": 120
+        },
+        {
+            "moderator": "CNN",
+            "party": "Republican",
+            "date": "02/25/2016",
+            "candidates": [
+                {
+                    "name": "Ben Carson",
+                    "minutes": 10,
+                    "seconds": 15
+                },
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 19,
+                    "seconds": 51
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 17,
+                    "seconds": 36
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 16,
+                    "seconds": 48
+                },
+                {
+                    "name": "Donald Trump",
+                    "minutes": 30,
+                    "seconds": 23
+                }
+            ],
+            "source": "http://www.npr.org/2016/02/25/468156547/on-the-clock-which-candidate-is-speaking-the-most-in-tonights-debate",
+            "numCandidates": 5,
+            "duration": 120
+        },
+        {
+            "moderator": "Fox News",
+            "party": "Republican",
+            "date": "03/03/2016",
+            "candidates": [
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 19,
+                    "seconds": 23
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 15,
+                    "seconds": 20
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 13,
+                    "seconds": 32
+                },
+                {
+                    "name": "Donald Trump",
+                    "minutes": 26,
+                    "seconds": 40
+                }
+            ],
+            "source": "http://www.npr.org/2016/03/03/469110036/on-the-clock-which-candidate-is-getting-the-most-talking-time",
+            "numCandidates": 4,
+            "duration": 120
+        },
+        {
+            "moderator": "CNN",
+            "party": "Republican",
+            "date": "03/10/2016",
+            "candidates": [
+                {
+                    "name": "Ted Cruz",
+                    "minutes": 21,
+                    "seconds": 42
+                },
+                {
+                    "name": "John Kasich",
+                    "minutes": 18,
+                    "seconds": 49
+                },
+                {
+                    "name": "Marco Rubio",
+                    "minutes": 21,
+                    "seconds": 23
+                },
+                {
+                    "name": "Donald Trump",
+                    "minutes": 27,
+                    "seconds": 21
+                }
+            ],
+            "source": "http://www.npr.org/2016/03/10/470003116/on-the-clock-whos-getting-the-most-talking-time-in-tonights-debate",
+            "numCandidates": 4,
+            "duration": 120
+        }
+    ]
+}
