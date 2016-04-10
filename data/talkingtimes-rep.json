@@ -56,7 +56,9 @@
                     "seconds": 51
                 }
             ],
-            "source": "http://www.newsweek.com/donald-trump-gets-most-gop-debate-talk-time-rand-paul-least-360724"
+            "source": "http://www.newsweek.com/donald-trump-gets-most-gop-debate-talk-time-rand-paul-least-360724",
+            "numCandidates": 10,
+            "duration": 120
         },
         {
             "moderator": "CNN",
@@ -119,7 +121,9 @@
                     "seconds": 30
                 }
             ],
-            "source": "http://www.cnn.com/2015/09/17/politics/republican-debate-talk-times/"
+            "source": "http://www.cnn.com/2015/09/17/politics/republican-debate-talk-times/",
+            "numCandidates": 11,
+            "duration": 180
         },
         {
             "moderator": "CNBC",
@@ -177,7 +181,9 @@
                     "seconds": 22
                 }
             ],
-            "source": "http://time.com/4092530/republican-debate-speaking-time/"
+            "source": "http://time.com/4092530/republican-debate-speaking-time/",
+            "numCandidates": 10,
+            "duration": 120
         },
         {
             "moderator": "Fox Business",
@@ -210,7 +216,9 @@
                     "seconds": 25
                 }
             ],
-            "source": "http://presidential-candidates.insidegov.com/stories/11155/republican-debate-super-tuesday"
+            "source": "http://presidential-candidates.insidegov.com/stories/11155/republican-debate-super-tuesday",
+            "numCandidates": 8,
+            "duration": 120
         },
         {
             "moderator": "CNN",
@@ -243,7 +251,9 @@
                     "seconds": 33
                 }
             ],
-            "source": "http://presidential-candidates.insidegov.com/stories/11155/republican-debate-super-tuesday"
+            "source": "http://presidential-candidates.insidegov.com/stories/11155/republican-debate-super-tuesday",
+            "numCandidates": 9,
+            "duration": 120
         },
         {
             "moderator": "Fox Business",
@@ -286,7 +296,9 @@
                     "seconds": 36
                 }
             ],
-            "source": "http://www.npr.org/2016/01/14/463089692/on-the-clock-whos-talking-the-most-in-tonights-debate"
+            "source": "http://www.npr.org/2016/01/14/463089692/on-the-clock-whos-talking-the-most-in-tonights-debate",
+            "numCandidates": 7,
+            "duration": 120
         },
         {
             "moderator": "Fox News",
@@ -329,7 +341,9 @@
                     "seconds": 56
                 }
             ],
-            "source": "http://www.npr.org/2016/01/28/464755079/on-the-clock-whos-getting-the-most-speaking-time-in-tonights-debate"
+            "source": "http://www.npr.org/2016/01/28/464755079/on-the-clock-whos-getting-the-most-speaking-time-in-tonights-debate",
+            "numCandidates": 7,
+            "duration": 120
         },
         {
             "moderator": "ABC",
@@ -372,7 +386,9 @@
                     "seconds": 46
                 }
             ],
-            "source": "http://www.npr.org/2016/02/06/465858684/on-the-clock-whos-getting-the-most-talking-time-in-tonights-debate"
+            "source": "http://www.npr.org/2016/02/06/465858684/on-the-clock-whos-getting-the-most-talking-time-in-tonights-debate",
+            "numCandidates": 7,
+            "duration": 120
         },
         {
             "moderator": "CBS",
@@ -410,7 +426,9 @@
                     "seconds": 15
                 }
             ],
-            "source": "http://www.npr.org/2016/02/13/466678286/on-the-clock-whos-getting-the-most-talking-time-in-tonights-debate"
+            "source": "http://www.npr.org/2016/02/13/466678286/on-the-clock-whos-getting-the-most-talking-time-in-tonights-debate",
+            "numCandidates": 6,
+            "duration": 120
         },
         {
             "moderator": "CNN",
@@ -443,7 +461,9 @@
                     "seconds": 23
                 }
             ],
-            "source": "http://www.npr.org/2016/02/25/468156547/on-the-clock-which-candidate-is-speaking-the-most-in-tonights-debate"
+            "source": "http://www.npr.org/2016/02/25/468156547/on-the-clock-which-candidate-is-speaking-the-most-in-tonights-debate",
+            "numCandidates": 5,
+            "duration": 120
         },
         {
             "moderator": "Fox News",
@@ -471,7 +491,9 @@
                     "seconds": 40
                 }
             ],
-            "source": "http://www.npr.org/2016/03/03/469110036/on-the-clock-which-candidate-is-getting-the-most-talking-time"
+            "source": "http://www.npr.org/2016/03/03/469110036/on-the-clock-which-candidate-is-getting-the-most-talking-time",
+            "numCandidates": 4,
+            "duration": 120
         },
         {
             "moderator": "CNN",
@@ -499,7 +521,9 @@
                     "seconds": 21
                 }
             ],
-            "source": "http://www.npr.org/2016/03/10/470003116/on-the-clock-whos-getting-the-most-talking-time-in-tonights-debate"
+            "source": "http://www.npr.org/2016/03/10/470003116/on-the-clock-whos-getting-the-most-talking-time-in-tonights-debate",
+            "numCandidates": 4,
+            "duration": 120
         }
     ]
 }
