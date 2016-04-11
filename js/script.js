@@ -61,12 +61,19 @@ function drawTalkingTimes(jsonfile) {
     });
 }
 
+function normalizeScore(score) {
+    return (score + 1) / 2;
+}
+
 function transformTopicsData(data) {
 
 }
 
 function drawSentimentAnalysis(jsonfile) {
-
+    var svg = dimple.newSvg('#topics', 1000, 500);
+    d3.json(jsonfile, function(result) {
+        
+    });
 }
 
 $(document).ready(function() {
