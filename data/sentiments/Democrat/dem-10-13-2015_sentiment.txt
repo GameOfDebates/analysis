@@ -1,46 +1,48 @@
-COOPER: Sentiment 
+COOPER: Sentiment
 type: positive
 score: 0.0405599
- 
-CHAFEE: Sentiment 
+
+CHAFEE: Sentiment
 type: negative
 score: -0.105086
- 
-WEBB: Sentiment 
+
+WEBB: Sentiment
 type: negative
 score: -0.00333491
- 
-O'MALLEY: Sentiment 
+
+O'MALLEY: Sentiment
 type: positive
 score: 0.00265038
- 
-SANDERS: Sentiment 
+
+SANDERS: Sentiment
 type: negative
 score: -0.255323
- 
-CLINTON: Sentiment 
+
+CLINTON: Sentiment
 type: negative
 score: -0.0727767
- 
-BASH: Sentiment 
+
+BASH: Sentiment
 type: negative
 score: -0.207859
- 
-(UNKNOWN): Sentiment 
+
+(UNKNOWN): Sentiment
 type: neutral
-LEMON: Sentiment 
+score: 0
+
+LEMON: Sentiment
 type: positive
 score: 0.227346
- 
-WILKINS: Sentiment 
+
+WILKINS: Sentiment
 type: positive
 score: 0.214265
- 
-LOPEZ: Sentiment 
+
+LOPEZ: Sentiment
 type: negative
 score: -0.0811169
- 
-QUESTION: Sentiment 
+
+QUESTION: Sentiment
 type: negative
 score: -0.0824632
- 
+

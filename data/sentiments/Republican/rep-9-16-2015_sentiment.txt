@@ -1,70 +1,74 @@
-TAPPER: Sentiment 
+TAPPER: Sentiment
 type: positive
 score: 0.188314
- 
-PAUL: Sentiment 
+
+PAUL: Sentiment
 type: negative
 score: -0.24038
- 
-HUCKABEE: Sentiment 
+
+HUCKABEE: Sentiment
 type: negative
 score: -0.21205
- 
-RUBIO: Sentiment 
+
+RUBIO: Sentiment
 type: negative
 score: -0.0114881
- 
-CRUZ: Sentiment 
+
+CRUZ: Sentiment
 type: negative
 score: -0.0158942
- 
-CARSON: Sentiment 
+
+CARSON: Sentiment
 type: negative
 score: -0.0763527
- 
-TRUMP: Sentiment 
+
+TRUMP: Sentiment
 type: positive
 score: 0.126799
- 
-BUSH: Sentiment 
+
+BUSH: Sentiment
 type: negative
 score: -0.327287
- 
-WALKER: Sentiment 
+
+WALKER: Sentiment
 type: positive
 score: 0.107735
- 
-FIORINA: Sentiment 
+
+FIORINA: Sentiment
 type: negative
 score: -0.0751132
- 
-KASICH: Sentiment 
+
+KASICH: Sentiment
 type: negative
 score: -0.227118
- 
-CHRISTIE: Sentiment 
+
+CHRISTIE: Sentiment
 type: positive
 score: 0.0567313
- 
-(UNKNOWN): Sentiment 
+
+(UNKNOWN): Sentiment
 type: neutral
-HEWITT: Sentiment 
+HEWITT: Sentiment
 type: positive
 score: 0.239881
- 
-BASH: Sentiment 
+
+BASH: Sentiment
 type: positive
 score: 0.105168
- 
-WALKER:: Sentiment 
+
+WALKER:: Sentiment
 type: negative
 score: -0.0774821
- 
-TALKER: Sentiment 
+
+TALKER: Sentiment
 type: neutral
-FIONNA: Sentiment 
+score: 0
+
+FIONNA: Sentiment
 type: neutral
-MALE: Sentiment 
+score: 0
+
+MALE: Sentiment
 type: positive
 score: 0.551909
- 
+
