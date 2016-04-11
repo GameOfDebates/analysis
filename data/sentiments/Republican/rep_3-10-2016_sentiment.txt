@@ -1,0 +1,40 @@
+TAPPER: Sentiment 
+type: positive
+score: 0.260403
+ 
+KASICH: Sentiment 
+type: negative
+score: -0.159762
+ 
+RUBIO: Sentiment 
+type: negative
+score: -0.0869701
+ 
+CRUZ: Sentiment 
+type: negative
+score: -0.0940545
+ 
+TRUMP: Sentiment 
+type: negative
+score: -0.0589617
+ 
+DINAN: Sentiment 
+type: positive
+score: 0.136835
+ 
+KAISCH: Sentiment 
+type: positive
+score: 0.28394
+ 
+BASH: Sentiment 
+type: positive
+score: 0.0406795
+ 
+HEWITT: Sentiment 
+type: positive
+score: 0.0897208
+ 
+CUBA: Sentiment 
+type: positive
+score: 0.337786
+ 
