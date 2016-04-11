@@ -1,34 +1,36 @@
-JOHN Sentiment 
+JOHN: Sentiment
 type: negative
 score: -0.0475367
- 
-BERNIE Sentiment 
+
+BERNIE: Sentiment
 type: negative
 score: -0.125646
- 
-HILLARY Sentiment 
+
+HILLARY: Sentiment
 type: negative
 score: -0.109832
- 
-MARTIN Sentiment 
+
+MARTIN: Sentiment
 type: positive
 score: 0.0682936
- 
-NANCY Sentiment 
+
+NANCY: Sentiment
 type: positive
 score: 0.154567
- 
-KEVIN Sentiment 
+
+KEVIN: Sentiment
 type: positive
 score: 0.141873
- 
-KATHIE Sentiment 
+
+KATHIE: Sentiment
 type: negative
 score: -0.189746
- 
-ANNOUNCER: Sentiment 
+
+ANNOUNCER: Sentiment
 type: neutral
-MAJOR Sentiment 
+score: 0
+
+MAJOR Sentiment
 type: negative
 score: -0.413619
- 
+
