@@ -1,0 +1,32 @@
+CLINTON: Sentiment 
+type: negative
+score: -0.0903468
+ 
+SALINAS: Sentiment 
+type: positive
+score: 0.0670932
+ 
+SANDERS: Sentiment 
+type: negative
+score: -0.0570487
+ 
+RAMOS: Sentiment 
+type: positive
+score: 0.00237082
+ 
+TUMULTY: Sentiment 
+type: positive
+score: 0.114346
+ 
+SANDERFS: Sentiment 
+type: negative
+score: -0.16584
+ 
+QUESTION: Sentiment 
+type: positive
+score: 0.626616
+ 
+(UNKNOWN): Sentiment 
+type: positive
+score: 0.0398219
+ 

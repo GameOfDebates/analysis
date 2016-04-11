@@ -1,0 +1,16 @@
+TODD: Sentiment 
+type: positive
+score: 0.240905
+ 
+MADDOW: Sentiment 
+type: negative
+score: -0.0632616
+ 
+SANDERS: Sentiment 
+type: negative
+score: -0.0794587
+ 
+CLINTON: Sentiment 
+type: negative
+score: -0.110036
+ 
