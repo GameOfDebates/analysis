@@ -3,9 +3,11 @@ import json
 import sys
 import os
 
-transcript = sys.argv[1]
+#transcript = sys.argv[1]
+
+transcript = open("transcripts/Republicans/rep-12-15-2015.txt")
 names = []
-texts = [""] * 10
+texts = [""] * 25
 for line in transcript:
     for word in line.split():
         if word.isupper():
@@ -19,7 +21,7 @@ for line in transcript:
                 
 alchemyapi = AlchemyAPI()
 
-path = sys.argv[1]
+path = 'transcripts/Republicans/rep-12-15-2015.txt'
 file_name = str(os.path.splitext(path)[0]) + '_sentiment.txt'
 f = open(file_name, 'w')
     
