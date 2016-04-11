@@ -1,0 +1,76 @@
+QUINTANILLA: Sentiment 
+type: negative
+score: -0.0774507
+ 
+KASICH: Sentiment 
+type: negative
+score: -0.111005
+ 
+HUCKABEE: Sentiment 
+type: negative
+score: -0.10507
+ 
+BUSH: Sentiment 
+type: negative
+score: -0.33325
+ 
+RUBIO: Sentiment 
+type: negative
+score: -0.106724
+ 
+TRUMP: Sentiment 
+type: positive
+score: 0.0372769
+ 
+CARSON: Sentiment 
+type: negative
+score: -0.159454
+ 
+FIORINA: Sentiment 
+type: negative
+score: -0.163048
+ 
+CRUZ: Sentiment 
+type: negative
+score: -0.144403
+ 
+CHRISTIE: Sentiment 
+type: negative
+score: -0.177176
+ 
+PAUL: Sentiment 
+type: negative
+score: -0.0377994
+ 
+HARWOOD: Sentiment 
+type: positive
+score: 0.24125
+ 
+HARWOOD: Sentiment 
+type: positive
+score: 0.311956
+ 
+MALE: Sentiment 
+type: negative
+score: -0.090259
+ 
+CRAMER: Sentiment 
+type: positive
+score: 0.278633
+ 
+SANTELLI: Sentiment 
+type: negative
+score: -0.12748
+ 
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.138272
+ 
+EPPERSON: Sentiment 
+type: positive
+score: 0.740309
+ 
+HARMAN: Sentiment 
+type: positive
+score: 0.636485
+ 

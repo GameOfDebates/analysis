@@ -1,0 +1,44 @@
+DICKERSON: Sentiment 
+type: negative
+score: -0.0236014
+ 
+TRUMP: Sentiment 
+type: negative
+score: -0.0158503
+ 
+KASICH: Sentiment 
+type: negative
+score: -0.283291
+ 
+CARSON: Sentiment 
+type: positive
+score: 0.00222365
+ 
+RUBIO: Sentiment 
+type: negative
+score: -0.227919
+ 
+BUSH: Sentiment 
+type: negative
+score: -0.477907
+ 
+CRUZ: Sentiment 
+type: negative
+score: -0.106548
+ 
+STRASSEL: Sentiment 
+type: negative
+score: -0.148042
+ 
+GARRETT: Sentiment 
+type: negative
+score: -0.075025
+ 
+TRUMP:. Sentiment 
+type: negative
+score: -0.289301
+ 
+GARRET: Sentiment 
+type: negative
+score: -0.353789
+ 

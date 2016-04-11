@@ -1,0 +1,56 @@
+BLITZER: Sentiment 
+type: negative
+score: -0.137996
+ 
+PAUL: Sentiment 
+type: negative
+score: -0.316201
+ 
+KASICH: Sentiment 
+type: negative
+score: -0.235951
+ 
+CHRISTIE: Sentiment 
+type: negative
+score: -0.0450389
+ 
+FIORINA: Sentiment 
+type: negative
+score: -0.214439
+ 
+BUSH: Sentiment 
+type: negative
+score: -0.313433
+ 
+RUBIO: Sentiment 
+type: negative
+score: -0.127962
+ 
+CRUZ: Sentiment 
+type: negative
+score: -0.230032
+ 
+CARSON: Sentiment 
+type: positive
+score: 0.0657683
+ 
+TRUMP: Sentiment 
+type: positive
+score: 0.0124166
+ 
+HEWITT: Sentiment 
+type: negative
+score: -0.0517657
+ 
+BASH: Sentiment 
+type: positive
+score: 0.0401735
+ 
+JOSH Sentiment 
+type: negative
+score: -0.408346
+ 
+QUESTION: Sentiment 
+type: negative
+score: -0.100842
+ 

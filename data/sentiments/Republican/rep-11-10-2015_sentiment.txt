@@ -1,0 +1,52 @@
+BAKER: Sentiment 
+type: positive
+score: 0.0718718
+ 
+CAVUTO: Sentiment 
+type: negative
+score: -0.0971845
+ 
+TRUMP: Sentiment 
+type: negative
+score: -0.10281
+ 
+CARSON: Sentiment 
+type: positive
+score: 0.10516
+ 
+RUBIO: Sentiment 
+type: negative
+score: -0.0526866
+ 
+BARTIROMO: Sentiment 
+type: positive
+score: 0.0302532
+ 
+KASICH: Sentiment 
+type: negative
+score: -0.354853
+ 
+CRUZ: Sentiment 
+type: negative
+score: -0.164686
+ 
+BUSH: Sentiment 
+type: negative
+score: -0.406396
+ 
+FIORINA: Sentiment 
+type: negative
+score: -0.32503
+ 
+PAUL: Sentiment 
+type: negative
+score: -0.121237
+ 
+(UNKNOWN): Sentiment 
+type: positive
+score: 0.179362
+ 
+MALE: Sentiment 
+type: negative
+score: -0.357317
+ 
