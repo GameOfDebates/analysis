@@ -3,9 +3,7 @@ import json
 import sys
 import os
 
-#transcript = sys.argv[1]
-
-transcript = open("transcripts/Democrats/dem-1-17-2016.txt")
+transcript = sys.argv[1]
 names = []
 texts = [""] * 10
 for line in transcript:
@@ -21,21 +19,20 @@ for line in transcript:
                 
 alchemyapi = AlchemyAPI()
 
+path = sys.argv[1]
+file_name = str(os.path.splitext(path)[0]) + '_sentiment.txt'
+f = open(file_name, 'w')
+    
 for i in range(len(names)):
     response = alchemyapi.sentiment('text', texts[i])
     
-    file_name = str(transcript) + '_sentiment'
-    f = open(file_name, 'w')
-    
     if response['status'] == 'OK':
-        f.write(str(texts[i].split()[0]) + ' Sentiment')
-        f.write('type: ', response['docSentiment']['type'])
+        f.write(str(texts[i].split()[0]) + ' Sentiment \n')
+        f.write('type: ' + str(response['docSentiment']['type']) + '\n')
 
         if 'score' in response['docSentiment']:
-            f.write('score: ', response['docSentiment']['score'] + '\n')
+            f.write('score: ' + str(response['docSentiment']['score']) + '\n \n')
     else:
         print('Error in sentiment analysis call: ',
               response['statusInfo'])
-    
-
 

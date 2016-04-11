@@ -1,0 +1,32 @@
+HOLT: Sentiment 
+type: positive
+score: 0.1471
+ 
+CLINTON: Sentiment 
+type: negative
+score: -0.102331
+ 
+SANDERS: Sentiment 
+type: negative
+score: -0.0347237
+ 
+O’MALLEY: Sentiment 
+type: positive
+score: 0.00950395
+ 
+MITCHELL: Sentiment 
+type: positive
+score: 0.0219284
+ 
+FRANTA: Sentiment 
+type: positive
+score: 0.514422
+ 
+TODD: Sentiment 
+type: positive
+score: 0.403965
+ 
+MILLER: Sentiment 
+type: negative
+score: -0.679133
+ 
