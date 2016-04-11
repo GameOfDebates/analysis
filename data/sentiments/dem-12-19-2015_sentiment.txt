@@ -1,0 +1,32 @@
+MUIR: Sentiment 
+type: positive
+score: 0.226902
+ 
+CLINTON: Sentiment 
+type: negative
+score: -0.25623
+ 
+RADDATZ: Sentiment 
+type: negative
+score: -0.0492901
+ 
+O'MALLEY: Sentiment 
+type: negative
+score: -0.0714796
+ 
+SANDERS: Sentiment 
+type: positive
+score: 0.00607983
+ 
+LEVESQUE: Sentiment 
+type: negative
+score: -0.169664
+ 
+MCELVEEN: Sentiment 
+type: positive
+score: 0.156014
+ 
+QUESTION: Sentiment 
+type: negative
+score: -0.713228
+ 
