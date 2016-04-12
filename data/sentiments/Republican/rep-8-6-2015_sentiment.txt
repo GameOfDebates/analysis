@@ -1,84 +1,84 @@
-KELLY: Sentiment 
+KELLY: Sentiment
 type: positive
 score: 0.0286394
- 
-BAIER: Sentiment 
+
+BAIER: Sentiment
 type: positive
 score: 0.0663719
- 
-WALLACE: Sentiment 
+
+WALLACE: Sentiment
 type: negative
 score: -0.0901079
- 
-(UNKNOWN): Sentiment 
+
+(UNKNOWN): Sentiment
 type: positive
 score: 0.645693
- 
-TRUMP: Sentiment 
+
+TRUMP: Sentiment
 type: positive
 score: 0.126091
- 
-PAUL: Sentiment 
+
+PAUL: Sentiment
 type: negative
 score: -0.244607
- 
-CARSON: Sentiment 
+
+CARSON: Sentiment
 type: positive
 score: 0.148421
- 
-RUBIO: Sentiment 
+
+RUBIO: Sentiment
 type: positive
 score: 0.173036
- 
-BUSH: Sentiment 
+
+BUSH: Sentiment
 type: negative
 score: -0.330444
- 
-CRUZ: Sentiment 
+
+CRUZ: Sentiment
 type: negative
 score: -0.122003
- 
-CHRISTIE: Sentiment 
+
+CHRISTIE: Sentiment
 type: negative
 score: -0.0729502
- 
-WALKER: Sentiment 
+
+WALKER: Sentiment
 type: positive
 score: 0.406759
- 
-HUCKABEE: Sentiment 
+
+HUCKABEE: Sentiment
 type: negative
 score: -0.300345
- 
-KASICH: Sentiment 
+
+KASICH: Sentiment
 type: negative
 score: -0.00368118
- 
-UNIDENTIFIED Sentiment 
+
+UNIDENTIFIED: Sentiment
 type: negative
 score: -0.259618
- 
-UNIDENTIFIED Sentiment 
+
+UNIDENTIFIED: Sentiment
 type: positive
 score: 0.550909
- 
+
 QUESTION: Sentiment 
 type: positive
 score: 0.715968
- 
-PERRY: Sentiment 
+
+PERRY: Sentiment
 type: negative
 score: -0.608018
- 
-FIORINA: Sentiment 
+
+FIORINA: Sentiment
 type: negative
 score: -0.718401
- 
-MEGAN: Sentiment 
+
+MEGAN: Sentiment
 type: negative
 score: -0.0686062
- 
-MODERATOR: Sentiment 
+
+MODERATOR: Sentiment
 type: positive
 score: 0.52763
- 
+

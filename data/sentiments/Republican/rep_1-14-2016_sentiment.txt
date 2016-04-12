@@ -1,52 +1,52 @@
-NEIL Sentiment 
+NEIL: Sentiment
 type: negative
 score: -0.234721
- 
-MARIA Sentiment 
+
+MARIA: Sentiment
 type: positive
 score: 0.223967
- 
-CRUZ: Sentiment 
+
+CRUZ: Sentiment
 type: negative
 score: -0.131255
- 
-KASICH: Sentiment 
+
+KASICH: Sentiment
 type: negative
 score: -0.0385196
- 
-CHRISTIE: Sentiment 
+
+CHRISTIE: Sentiment
 type: negative
 score: -0.0888687
- 
-BUSH: Sentiment 
+
+BUSH: Sentiment
 type: negative
 score: -0.350291
- 
-RUBIO: Sentiment 
+
+RUBIO: Sentiment
 type: negative
 score: -0.207542
- 
-CARSON: Sentiment 
+
+CARSON: Sentiment
 type: positive
 score: 0.141853
- 
-TRUMP: Sentiment 
+
+TRUMP: Sentiment
 type: negative
 score: -0.0374266
- 
-(UNKNOWN): Sentiment 
+
+(UNKNOWN): Sentiment
 type: negative
 score: -0.319862
- 
-TRUMP:. Sentiment 
+
+TRUMP: Sentiment
 type: positive
 score: 0.372838
- 
-BARITROMO: Sentiment 
+
+BARITROMO: Sentiment
 type: negative
 score: -0.0991036
- 
-AUDIENCE: Sentiment 
+
+AUDIENCE: Sentiment
 type: positive
 score: 0.239983
- 
+

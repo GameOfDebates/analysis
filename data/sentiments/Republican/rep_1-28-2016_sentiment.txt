@@ -1,54 +1,60 @@
-BRET Sentiment 
+BRET: Sentiment
 type: positive
 score: 0.142403
- 
-BRET Sentiment 
+
+BRET: Sentiment
 type: positive
 score: 0.165483
- 
-CHRIS Sentiment 
+
+CHRIS Sentiment
 type: negative
 score: -0.101688
- 
-CRUZ: Sentiment 
+
+CRUZ: Sentiment
 type: negative
 score: -0.0340521
- 
-RUBIO: Sentiment 
+
+RUBIO: Sentiment
 type: negative
 score: -0.126545
- 
-BUSH: Sentiment 
+
+BUSH: Sentiment
 type: negative
 score: -0.24059
- 
-CHRISTIE: Sentiment 
+
+CHRISTIE: Sentiment
 type: negative
 score: -0.110343
- 
-PAUL: Sentiment 
+
+PAUL: Sentiment
 type: positive
 score: 0.151018
- 
-KASICH: Sentiment 
+
+KASICH: Sentiment
 type: negative
 score: -0.100997
- 
-CARSON: Sentiment 
+
+CARSON: Sentiment
 type: negative
 score: -0.0867448
- 
-PAUL:. Sentiment 
+
+PAUL: Sentiment
 type: neutral
-MEGYN: Sentiment 
+score: 0
+
+MEGYN: Sentiment
 type: neutral
-QUESTION: Sentiment 
+score: 0
+
+QUESTION: Sentiment
 type: positive
 score: 0.201526
- 
-CURZ: Sentiment 
+
+CURZ: Sentiment
 type: neutral
-WALLLACE: Sentiment 
+score: 0
+
+WALLLACE: Sentiment
 type: negative
 score: -0.328896
- 
+
