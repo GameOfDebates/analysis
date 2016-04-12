@@ -640,6 +640,7 @@ function drawTopicModelingDem() {
             $('#topicWordsDemocrat').append('<p>' + words[i][j] + '</p>');
         }
     }
+    $('#currentDemDate').text(currentDemDate);
 }
 
 function drawTopicModelingRep() {
@@ -652,6 +653,7 @@ function drawTopicModelingRep() {
             $('#topicWordsRepublican').append('<p>' + words[i][j] + '</p>');
         }
     }
+    $('#currentRepDate').text(currentRepDate);
 }
 
 $(document).ready(function() {
