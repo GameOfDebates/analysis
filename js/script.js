@@ -66,13 +66,59 @@ function normalizeScore(score) {
 }
 
 function transformTopicsData(data) {
-
+    var transformed = [];
+    for (var i = 0; i < data.length; i++) {
+        for (var id in data[i]) {
+            if (id !== 'date' && id !== 'src') {
+                var op = {};
+                op.candidate = id;
+                op.date = data[i].date;
+                var scoreP = normalizeScore(data[i][id].score);
+                op.score = scoreP;
+                op.classification = data[i][id].classification;
+                op.t = 'pos';
+                transformed.push(op);
+                var on = {};
+                on.candidate = id;
+                on.date = data[i].date;
+                on.score = 1 - scoreP;
+                on.classification = data[i][id].classification;
+                on.t = 'neg';
+                transformed.push(on);
+            }
+        }
+    }
+    return transformed;
 }
 
+// version 1
 function drawSentimentAnalysis(jsonfile) {
     var svg = dimple.newSvg('#topics', 1000, 500);
     d3.json(jsonfile, function(result) {
-        
+        var data = transformTopicsData(result);
+        console.log(data);
+        var chart = new dimple.chart(svg, data);
+        chart.addCategoryAxis('x', ['candidate', 'date']);
+        chart.addMeasureAxis('y', 'score');
+        chart.addSeries('candidate', dimple.plot.bar);
+        chart.addSeries('t', dimple.plot.bar);
+        chart.addLegend(200, 10, 380, 20, 'right');
+        chart.draw();
+    });
+}
+
+function drawSentimentAnalysis2(jsonfile) {
+    var svg = dimple.newSvg('#topics', 1000, 500);
+    d3.json(jsonfile, function(result) {
+        var data = transformTopicsData(result);
+        console.log(data);
+        var chart = new dimple.chart(svg, data);
+        chart.addCategoryAxis('x', ['date', 'candidate']);
+        chart.addMeasureAxis('y', 'score');
+        chart.addSeries('candidate', dimple.plot.bar);
+        chart.addSeries('t', dimple.plot.bar);
+        chart.addLegend(200, 10, 380, 20, 'right');
+        chart.draw();
     });
 }
 
@@ -81,4 +127,6 @@ $(document).ready(function() {
     drawTalkingTimes('data/talkingtimes-dem.json');
     drawSentimentAnalysis('data/sentiments/rep_overall.json');
     drawSentimentAnalysis('data/sentiments/dem_overall.json');
+    drawSentimentAnalysis2('data/sentiments/rep_overall.json');
+    drawSentimentAnalysis2('data/sentiments/dem_overall.json');
 });
