@@ -5,37 +5,50 @@ import os
 
 #transcript = sys.argv[1]
 
-transcript = open("transcripts/Democrats/dem-1-17-2016.txt")
-names = []
-texts = [""] * 10
-for line in transcript:
-    for word in line.split():
-        if word.isupper():
-            if ':' in word:
-                if word not in names:
-                    names.append(word)
+def getnames():
+    with open("transcripts/Democrats/dem-2-4-2016.txt", 'r') as t:
+        names = []
+        for line in t:
+            for word in line.split():
+                if word.isupper():
+                    if ':' in word:
+                        if word not in names:
+                            names.append(word)
+    return names
+
+def gettexts(names):
+    texts = [""] * 15
     for i in range(len(names)):
-        if line.find(names[i]) > -1:
-            texts[i] += line
-                    
+        with open("transcripts/Democrats/dem-2-4-2016.txt", 'r') as t:
+            for line in t:
+                if line.find(names[i]) > -1:
+                    texts[i] += line
+                else:
+                    if not any(name in line for name in names):
+                        texts[i] += line
+    return texts
+
                 
-alchemyapi = AlchemyAPI()
+def do_analysis(names, texts):
+    alchemyapi = AlchemyAPI()
 
-for i in range(len(names)):
-    response = alchemyapi.sentiment('text', texts[i])
-    
-    file_name = str(transcript) + '_sentiment'
+    path = 'transcripts/Democrats/dem-2-4-2016.txt'
+    file_name = str(os.path.splitext(path)[0]) + '_sentiment.txt'
     f = open(file_name, 'w')
-    
-    if response['status'] == 'OK':
-        f.write(str(texts[i].split()[0]) + ' Sentiment')
-        f.write('type: ', response['docSentiment']['type'])
 
-        if 'score' in response['docSentiment']:
-            f.write('score: ', response['docSentiment']['score'] + '\n')
-    else:
-        print('Error in sentiment analysis call: ',
-              response['statusInfo'])
-    
+    for i in range(len(names)):
+        response = alchemyapi.sentiment_targeted('text', texts[i], 'healthcare')
 
+        if response['status'] == 'OK':
+            f.write(names[i] + ' Sentiment \n')
+            f.write('type: ' + str(response['docSentiment']['type']) + '\n')
 
+            if 'score' in response['docSentiment']:
+                f.write('score: ' + str(response['docSentiment']['score']) + '\n \n')
+        else:
+            print('Error in sentiment analysis call: ',
+                  response['statusInfo'])
+
+names = getnames()
+texts = gettexts(names)
+do_analysis(names, texts)
