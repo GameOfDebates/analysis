@@ -13,7 +13,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep-10-28-2015_sentiment.txt",
-        "date": "10/28/2015"
+        "date": "10/28/2015",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -29,7 +30,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep-11-10-2015_sentiment.txt",
-        "date": "11/10/2015"
+        "date": "11/10/2015",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -45,7 +47,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep-12-15-2015_sentiment.txt",
-        "date": "12/15/2015"
+        "date": "12/15/2015",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -61,7 +64,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep-8-6-2015_sentiment.txt",
-        "date": "08/06/2015"
+        "date": "08/06/2015",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -77,7 +81,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep-9-16-2015_sentiment.txt",
-        "date": "09/16/2015"
+        "date": "09/16/2015",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -93,7 +98,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep_1-14-2016_sentiment.txt",
-        "date": "01/14/2016"
+        "date": "01/14/2016",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -105,7 +111,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep_1-28-2016_sentiment.txt",
-        "date": "01/28/2016"
+        "date": "01/28/2016",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -121,7 +128,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep_2-13-2016_sentiment.txt",
-        "date": "02/13/2016"
+        "date": "02/13/2016",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -137,7 +145,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep_2-25-2016_sentiment.txt",
-        "date": "02/25/2016"
+        "date": "02/25/2016",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -153,7 +162,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep_2-6-2016_sentiment.txt",
-        "date": "02/06/2016"
+        "date": "02/06/2016",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -169,7 +179,8 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep_3-10-2016_sentiment.txt",
-        "date": "03/10/2016"
+        "date": "03/10/2016",
+        "party": "Republican"
     },
     {
         "cruz": {
@@ -185,6 +196,7 @@
             "classification": "negative"
         },
         "src": "data/sentiments/Republican/rep_3-3-2016_sentiment.txt",
-        "date": "03/03/2016"
+        "date": "03/03/2016",
+        "party": "Republican"
     }
 ]

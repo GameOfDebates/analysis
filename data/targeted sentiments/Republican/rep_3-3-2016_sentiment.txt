@@ -1,190 +1,190 @@
-s victory:
-BAIER: Sentiment 
+ s victory:
+BAIER: Sentiment
 type: positive
 score: 0.116468
- 
+
  Trade Policy:
-BAIER: Sentiment 
+BAIER: Sentiment
 type: positive
 score: 0.152072
- 
+
  RNC:
-BAIER: Sentiment 
+BAIER: Sentiment
 type: negative
 score: -0.320519
- 
-s victory:
-WALLACE: Sentiment 
+
+ s victory:
+WALLACE: Sentiment
 type: positive
 score: 0.127618
- 
+
  Trade Policy:
-WALLACE: Sentiment 
+WALLACE: Sentiment
 type: negative
 score: -0.0056175
- 
+
  RNC:
-WALLACE: Sentiment 
+WALLACE: Sentiment
 type: negative
 score: -0.320519
- 
-s victory:
-TRUMP: Sentiment 
+
+ s victory:
+TRUMP: Sentiment
 type: positive
 score: 0.348642
- 
+
  Trade Policy:
-TRUMP: Sentiment 
+TRUMP: Sentiment
 type: positive
 score: 0.206516
- 
-s victory:
-RUBIO: Sentiment 
+
+ s victory:
+RUBIO: Sentiment
 type: positive
 score: 0.139815
- 
+
  Trade Policy:
-RUBIO: Sentiment 
+RUBIO: Sentiment
 type: positive
 score: 0.642446
- 
+
  RNC:
-RUBIO: Sentiment 
+RUBIO: Sentiment
 type: negative
 score: -0.320519
- 
-s victory:
-KELLY: Sentiment 
+
+ s victory:
+KELLY: Sentiment
 type: positive
 score: 0.237567
- 
+
  Trade Policy:
-KELLY: Sentiment 
+KELLY: Sentiment
 type: positive
 score: 0.615257
- 
+
  RNC:
-KELLY: Sentiment 
+KELLY: Sentiment
 type: negative
 score: -0.320519
- 
-s victory:
-CRUZ: Sentiment 
+
+ s victory:
+CRUZ: Sentiment
 type: negative
 score: -0.0157643
- 
+
  Trade Policy:
-CRUZ: Sentiment 
+CRUZ: Sentiment
 type: positive
 score: 0.615257
- 
+
  RNC:
-CRUZ: Sentiment 
+CRUZ: Sentiment
 type: negative
 score: -0.320519
- 
-s victory:
-KASICH: Sentiment 
+
+ s victory:
+KASICH: Sentiment
 type: positive
 score: 0.127644
- 
+
  Trade Policy:
-KASICH: Sentiment 
+KASICH: Sentiment
 type: positive
 score: 0.152072
- 
+
  RNC:
-KASICH: Sentiment 
+KASICH: Sentiment
 type: negative
 score: -0.448922
- 
-s victory:
-TRUMO: Sentiment 
+
+ s victory:
+TRUMO: Sentiment
 type: positive
 score: 0.127644
- 
+
  Trade Policy:
-TRUMO: Sentiment 
+TRUMO: Sentiment
 type: positive
 score: 0.152072
- 
+
  RNC:
-TRUMO: Sentiment 
+TRUMO: Sentiment
 type: negative
 score: -0.320519
- 
+
 s victory:
-CUOMO: Sentiment 
+CUOMO: Sentiment
 type: positive
 score: 0.127644
- 
+
  Trade Policy:
-CUOMO: Sentiment 
+CUOMO: Sentiment
 type: positive
 score: 0.152072
- 
+
  RNC:
-CUOMO: Sentiment 
+CUOMO: Sentiment
 type: negative
 score: -0.320519
- 
-s victory:
-(UNKNOWN): Sentiment 
+
+ s victory:
+(UNKNOWN): Sentiment
 type: positive
 score: 0.137616
- 
+
  Trade Policy:
-(UNKNOWN): Sentiment 
+(UNKNOWN): Sentiment
 type: positive
 score: 0.152072
- 
+
  RNC:
-(UNKNOWN): Sentiment 
+(UNKNOWN): Sentiment
 type: negative
 score: -0.320519
- 
-s victory:
-O'REILLY: Sentiment 
+
+ s victory:
+O'REILLY: Sentiment
 type: positive
 score: 0.127644
- 
+
  Trade Policy:
-O'REILLY: Sentiment 
+O'REILLY: Sentiment
 type: positive
 score: 0.152072
- 
+
  RNC:
-O'REILLY: Sentiment 
+O'REILLY: Sentiment
 type: negative
 score: -0.320519
- 
+
 s victory:
-HANNITY: Sentiment 
+HANNITY: Sentiment
 type: positive
 score: 0.127644
- 
+
  Trade Policy:
-HANNITY: Sentiment 
+HANNITY: Sentiment
 type: positive
 score: 0.152072
- 
+
  RNC:
-HANNITY: Sentiment 
+HANNITY: Sentiment
 type: negative
 score: -0.320519
- 
-s victory:
-MALE: Sentiment 
+
+ s victory:
+MALE: Sentiment
 type: positive
 score: 0.127644
- 
+
  Trade Policy:
-MALE: Sentiment 
+MALE: Sentiment
 type: positive
 score: 0.152072
- 
+
  RNC:
-MALE: Sentiment 
+MALE: Sentiment
 type: negative
 score: -0.320519
- 
+

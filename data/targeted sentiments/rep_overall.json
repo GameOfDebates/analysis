@@ -1,0 +1,482 @@
+[
+    {
+        "Social Security": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.252629
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.223129
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.223129
+            }
+        },
+        "Jobs": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.47449
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.474458
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.468061
+            }
+        },
+        "Laissez-faire economy": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.219171
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.219171
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.219171
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep-10-28-2015_sentiment.txt",
+        "party": "Republican",
+        "date": "10/28/2015"
+    },
+    {
+        "Trade Policy": {
+            "kasich": {
+                "classification": "positive",
+                "score": 0.0725992
+            },
+            "cruz": {
+                "classification": "positive",
+                "score": 0.142554
+            },
+            "trump": {
+                "classification": "positive",
+                "score": 0.121548
+            }
+        },
+        "Foreign Approval": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.419424
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.419424
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.419424
+            }
+        },
+        "Military": {
+            "kasich": {
+                "classification": "positive",
+                "score": 0.283798
+            },
+            "cruz": {
+                "classification": "positive",
+                "score": 0.396446
+            },
+            "trump": {
+                "classification": "positive",
+                "score": 0.283798
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep-11-10-2015_sentiment.txt",
+        "party": "Republican",
+        "date": "11/10/2015"
+    },
+    {
+        "Military": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.0624461
+            },
+            "cruz": {
+                "classification": "positive",
+                "score": 0.0129564
+            },
+            "trump": {
+                "classification": "positive",
+                "score": 0.0129564
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep-12-15-2015_sentiment.txt",
+        "party": "Republican",
+        "date": "12/15/2015"
+    },
+    {
+        "Wars": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.484958
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.473471
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.451165
+            }
+        },
+        "Abortion": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.621691
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.579038
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.51096
+            }
+        },
+        "Budget or Tax Policy": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.577665
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.577665
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.577665
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep-8-6-2015_sentiment.txt",
+        "party": "Republican",
+        "date": "8/6/2015"
+    },
+    {
+        "Planned Parenthood": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.57349
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.57349
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.481797
+            }
+        },
+        "Iran Nuclear Deal": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.49677
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.46481
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.500974
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep-9-16-2015_sentiment.txt",
+        "party": "Republican",
+        "date": "9/16/2015"
+    },
+    {
+        "Gun Control": {
+            "kasich": {
+                "classification": "positive",
+                "score": 0.072023
+            },
+            "cruz": {
+                "classification": "positive",
+                "score": 0.072023
+            },
+            "trump": {
+                "classification": "positive",
+                "score": 0.072023
+            }
+        },
+        "Allegations on Origin of Birth": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.271188
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.274398
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.271188
+            }
+        },
+        "Tax Policy": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.278971
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.278971
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.278971
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep_1-14-2016_sentiment.txt",
+        "party": "Republican",
+        "date": "1/14/2016"
+    },
+    {
+        "Civil Liberties": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.169551
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.186811
+            }
+        },
+        "Mudslinging": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.391516
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.320362
+            }
+        },
+        "Immigration": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.453762
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.406086
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep_1-28-2016_sentiment.txt",
+        "party": "Republican",
+        "date": "1/28/2016"
+    },
+    {
+        "Healthcare": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.590596
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.605148
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.590596
+            }
+        },
+        "Mudslinging": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.429039
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.429039
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.522468
+            }
+        },
+        "Supreme Court": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.486414
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.445844
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.486414
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep_2-13-2016_sentiment.txt",
+        "party": "Republican",
+        "date": "2/13/2016"
+    },
+    {
+        "Foreign Policy": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.65588
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.65588
+            }
+        },
+        "North Korean Foreign Policy": {
+            "kasich": {
+                "classification": "neutral",
+                "score": 0
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep_2-25-2016_sentiment.txt",
+        "party": "Republican",
+        "date": "2/25/2016"
+    },
+    {
+        "Emininent domain": {
+            "kasich": {
+                "classification": "positive",
+                "score": 0.421469
+            },
+            "cruz": {
+                "classification": "positive",
+                "score": 0.421469
+            },
+            "trump": {
+                "classification": "positive",
+                "score": 0.243957
+            }
+        },
+        "Hilary Clinton": {
+            "kasich": {
+                "classification": "positive",
+                "score": 0.325481
+            },
+            "cruz": {
+                "classification": "positive",
+                "score": 0.351703
+            },
+            "trump": {
+                "classification": "positive",
+                "score": 0.318995
+            }
+        },
+        "Executive Orders": {
+            "kasich": {
+                "classification": "positive",
+                "score": 0.0691928
+            },
+            "cruz": {
+                "classification": "positive",
+                "score": 0.0691928
+            },
+            "trump": {
+                "classification": "positive",
+                "score": 0.0691928
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep_2-6-2016_sentiment.txt",
+        "party": "Republican",
+        "date": "2/6/2016"
+    },
+    {
+        "Cuban embargo": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.727195
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.727195
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.703128
+            }
+        },
+        "Climate Change": {
+            "kasich": {
+                "classification": "positive",
+                "score": 0.0378528
+            },
+            "cruz": {
+                "classification": "positive",
+                "score": 0.0709367
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.0120923
+            }
+        },
+        "Budget": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.39027
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.561332
+            },
+            "trump": {
+                "classification": "negative",
+                "score": -0.561332
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep_3-10-2016_sentiment.txt",
+        "party": "Republican",
+        "date": "3/10/2016"
+    },
+    {
+        "Trade Policy": {
+            "kasich": {
+                "classification": "positive",
+                "score": 0.152072
+            },
+            "cruz": {
+                "classification": "positive",
+                "score": 0.615257
+            },
+            "trump": {
+                "classification": "positive",
+                "score": 0.206516
+            }
+        },
+        "s victory": {
+            "kasich": {
+                "classification": "positive",
+                "score": 0.127644
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.0157643
+            },
+            "trump": {
+                "classification": "positive",
+                "score": 0.348642
+            }
+        },
+        "RNC": {
+            "kasich": {
+                "classification": "negative",
+                "score": -0.448922
+            },
+            "cruz": {
+                "classification": "negative",
+                "score": -0.320519
+            }
+        },
+        "src": "data/targeted sentiments/Republican/rep_3-3-2016_sentiment.txt",
+        "party": "Republican",
+        "date": "3/3/2016"
+    }
+]
