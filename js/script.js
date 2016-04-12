@@ -17,11 +17,16 @@ function getDuration(minutes, seconds, totalTime) {
     return absoluteTime / totalTime;
 }
 
+function writeCandidateNumbers(id, debate, numCandidates) {
+    $(id).append('<tr><td>' + debate + '</td><td>' + numCandidates + '</td></tr>');
+}
+
 function transformTalkingTimesData(data) {
     var transformed = [];
     var currentCandidates = ["Donald Trump", "John Kasich", "Ted Cruz", "Hillary Clinton", "Bernie Sanders"];
     for (var i = 0; i < data.length; i++) {
         var totalTalkingTime = getTotalTime(data[i].candidates);
+        writeCandidateNumbers('#numCandidates' + data[i].party, data[i].date, data[i].numCandidates);
         for (var j = 0; j < data[i].candidates.length; j++) {
             if (currentCandidates.indexOf(data[i].candidates[j].name) >= 0) {
                 var obj = {};
@@ -39,10 +44,9 @@ function transformTalkingTimesData(data) {
 }
 
 function drawTalkingTimes(jsonfile, svgId) {
-    var svg = dimple.newSvg(svgId, 1200, 500);
+    var svg = dimple.newSvg(svgId, 1000, 500);
     d3.json(jsonfile, function(result) {
         var data = transformTalkingTimesData(result.data);
-        console.log(data);
         var chart = new dimple.chart(svg, data);
         chart.addCategoryAxis('x', ['date', 'candidate', 'moderator']);
         chart.addMeasureAxis('y', 'talkingTime');

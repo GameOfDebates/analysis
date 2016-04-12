@@ -5,26 +5,6 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#mainNav" aria-expanded="false">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">Game of Debates</a>
-            </div>
-            <div class="collapse navbar-collapse" id="mainNav">
-                <ul class="nav navbar-nav">
-                    <li><a href="#intro">Introduction</a></li>
-                    <li><a href="#tt">Talking Times</a></li>
-                    <li><a href="#toR">Topics</a></li>
-                </ul>
-            </div>
-        </div>
-    </nav>
     <div class="wrapper">
         <div id="intro" class="row">
             <div class="col-md-10 col-sm-offset-1">
@@ -32,28 +12,50 @@
                 <p class="text-center">Meera Parat, Vishal Disawar, Pranav Boopathy, Haocheng Zhang, Emily Chao</p>
                 <div class="col-md-12">
                     <p>The goal of our visualization is to show the overall picture of the Republican and Democratic party primary debates.</p>
-                    <p>How much talking time does each candidate get to talk during a debate? What kinds of topics are discussed during these debates? Does their talking time influence the emotions conveyed in their speech during debates?</p>
                     <p>Transcripts courtesy of the <i>Washington Post</i>, <i>New York Times</i>, <i>CNN</i>, <i>CBS News</i>, and <i>Time</i>.</p>
                     <p>Talk-time data courtesy of <i>Politico</i>, <i>InsideGov</i>, <i>NPR</i>, <i>CNN</i>.</p>
                 </div>
             </div>
         </div>
-        <div id="tt" class="row">
-            <h1 class="text-center">Talking Times</h1>
-            <div id="talkingTimeRep" class="col-md-12">
-                <h3 class="text-center">The Republicans</h3>
+        <h2 class="text-center">First Question</h2>
+        <h3 class="text-center">How much time do candidates get during a debate relative to other candidates?</h3>
+        <div id="ttR" class="row">
+            <div id="talkingTimeRep" class="col-md-9">
+                <h4 class="text-center">The Republicans</h4>
             </div>
-            <div id="talkingTimeDem" class="col-md-12">
-                <h3 class="text-center">The Democrats</h3>
+            <div class="col-md-3">
+                <h4 class="text-center">Number of Candidates</h4>
+                <table id="numCandidatesRepublican" class="table table-bordered table-condensed">
+                    <tr>
+                        <td>Date</td>
+                        <td># Candidates</td>
+                    </tr>
+                </table>
             </div>
         </div>
+        <div id="ttD" class="row">
+            <div id="talkingTimeDem" class="col-md-9">
+                <h4 class="text-center">The Democrats</h4>
+            </div>
+            <div class="col-md-3">
+                <h4 class="text-center">Number of Candidates</h4>
+                <table id="numCandidatesDemocrat" class="table table-bordered table-condensed">
+                    <tr>
+                        <td>Date</td>
+                        <td># Candidates</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <h2 class="text-center">Second Question</h2>
+        <h3 class="text-center">What is the overall sentiment of each debate?</h3>
         <div id="toR" class="row">
-            <h1 class="text-center">Topics and Sentiment Analysis - Republicans</h1>
+            <h4 class="text-center">The Republicans</h4>
             <div class="col-md-6" id="sentimentRep1"></div>
             <div class="col-md-6" id="sentimentRep2"></div>
         </div>
         <div id="toD" class="row">
-            <h1 class="text-center">Topics and Sentiment Analysis - Democrats</h1>
+            <h4 class="text-center">The Democrats</h4>
             <div class="col-md-6" id="sentimentDem1"></div>
             <div class="col-md-6" id="sentimentDem2"></div>
         </div>
