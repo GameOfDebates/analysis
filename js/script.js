@@ -2,14 +2,26 @@ function getDate(date) {
     return moment(date).format("MMM D YYYY");
 }
 
-function getDuration(minutes, seconds) {
-    return minutes + (seconds / 60);
+function getTotalTime(array) {
+    var totalMinutes = 0;
+    var totalSeconds = 0;
+    for (var i = 0; i < array.length; i++) {
+        totalMinutes += array[i].minutes;
+        totalSeconds += array[i].seconds;
+    }
+    return totalMinutes + (totalSeconds / 60);
+}
+
+function getDuration(minutes, seconds, totalTime) {
+    var absoluteTime = minutes + (seconds / 60);
+    return absoluteTime / totalTime;
 }
 
 function transformTalkingTimesData(data) {
     var transformed = [];
     var currentCandidates = ["Donald Trump", "John Kasich", "Ted Cruz", "Hillary Clinton", "Bernie Sanders"];
     for (var i = 0; i < data.length; i++) {
+        var totalTalkingTime = getTotalTime(data[i].candidates);
         for (var j = 0; j < data[i].candidates.length; j++) {
             if (currentCandidates.indexOf(data[i].candidates[j].name) >= 0) {
                 var obj = {};
@@ -18,7 +30,7 @@ function transformTalkingTimesData(data) {
                 obj.duration = data[i].duration;
                 obj.moderator = data[i].moderator;
                 obj.candidate = data[i].candidates[j].name;
-                obj.talkingTime = getDuration(data[i].candidates[j].minutes, data[i].candidates[j].seconds);
+                obj.talkingTime = getDuration(data[i].candidates[j].minutes, data[i].candidates[j].seconds, totalTalkingTime);
                 transformed.push(obj);
             }
         }
@@ -30,6 +42,7 @@ function drawTalkingTimes(jsonfile, svgId) {
     var svg = dimple.newSvg(svgId, 1200, 500);
     d3.json(jsonfile, function(result) {
         var data = transformTalkingTimesData(result.data);
+        console.log(data);
         var chart = new dimple.chart(svg, data);
         chart.addCategoryAxis('x', ['date', 'candidate', 'moderator']);
         chart.addMeasureAxis('y', 'talkingTime');
