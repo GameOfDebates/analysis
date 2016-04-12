@@ -1,0 +1,75 @@
+ 2008 economic crisis:
+COOPER: Sentiment 
+type: negative
+score: -0.44525
+ 
+ Flint Water Crisis:
+COOPER: Sentiment 
+type: negative
+score: -0.44525
+ 
+ Corporate Bailout:
+COOPER: Sentiment 
+type: negative
+score: -0.277152
+ 
+ 2008 economic crisis:
+SANDERS: Sentiment 
+type: negative
+score: -0.392041
+ 
+ Flint Water Crisis:
+SANDERS: Sentiment 
+type: negative
+score: -0.392041
+ 
+ Corporate Bailout:
+SANDERS: Sentiment 
+type: negative
+score: -0.35713
+ 
+ 2008 economic crisis:
+CLINTON: Sentiment 
+type: negative
+score: -0.44525
+ 
+ Flint Water Crisis:
+CLINTON: Sentiment 
+type: negative
+score: -0.44525
+ 
+ Corporate Bailout:
+CLINTON: Sentiment 
+type: negative
+score: -0.352672
+ 
+ 2008 economic crisis:
+QUESTION: Sentiment 
+type: negative
+score: -0.44525
+ 
+ Flint Water Crisis:
+QUESTION: Sentiment 
+type: negative
+score: -0.44525
+ 
+ Corporate Bailout:
+QUESTION: Sentiment 
+type: negative
+score: -0.277152
+ 
+ 2008 economic crisis:
+LEMON: Sentiment 
+type: negative
+score: -0.44525
+ 
+ Flint Water Crisis:
+LEMON: Sentiment 
+type: negative
+score: -0.44525
+ 
+ Corporate Bailout:
+LEMON: Sentiment 
+type: negative
+score: -0.277152
+ 

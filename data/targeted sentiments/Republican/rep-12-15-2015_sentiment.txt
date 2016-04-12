@@ -1,0 +1,76 @@
+ Military:
+BLITZER: Sentiment 
+type: positive
+score: 0.0722488
+ 
+ Military:
+PAUL: Sentiment 
+type: negative
+score: -0.0120086
+ 
+ Military:
+KASICH: Sentiment 
+type: negative
+score: -0.0624461
+ 
+ Military:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.0120086
+ 
+ Military:
+FIORINA: Sentiment 
+type: negative
+score: -0.0120086
+ 
+ Military:
+BUSH: Sentiment 
+type: positive
+score: 0.0229109
+ 
+ Military:
+RUBIO: Sentiment 
+type: negative
+score: -0.0104023
+ 
+ Military:
+CRUZ: Sentiment 
+type: positive
+score: 0.0129564
+ 
+ Military:
+CARSON: Sentiment 
+type: negative
+score: -0.0120086
+ 
+ Military:
+TRUMP: Sentiment 
+type: positive
+score: 0.0129564
+ 
+ Military:
+HEWITT: Sentiment 
+type: negative
+score: -0.0120086
+ 
+ Military:
+BASH: Sentiment 
+type: negative
+score: -0.0120086
+ 
+ Terrorism:
+STUDENT: Sentiment 
+type: neutral
+ Military:
+STUDENT: Sentiment 
+type: negative
+score: -0.0120086
+ 
+ Terrorism:
+QUESTION: Sentiment 
+type: neutral
+ Military:
+QUESTION: Sentiment 
+type: positive
+score: 0.00904077
+ 

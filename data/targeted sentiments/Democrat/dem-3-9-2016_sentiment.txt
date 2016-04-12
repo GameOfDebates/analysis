@@ -1,0 +1,120 @@
+ Immigration:
+CLINTON: Sentiment 
+type: negative
+score: -0.023188
+ 
+ Climate Change:
+CLINTON: Sentiment 
+type: negative
+score: -0.345231
+ 
+ Foreign Approval:
+CLINTON: Sentiment 
+type: negative
+score: -0.133668
+ 
+ Immigration:
+SALINAS: Sentiment 
+type: negative
+score: -0.109085
+ 
+ Climate Change:
+SALINAS: Sentiment 
+type: negative
+score: -0.345231
+ 
+ Foreign Approval:
+SALINAS: Sentiment 
+type: negative
+score: -0.273234
+ 
+ Immigration:
+SANDERS: Sentiment 
+type: negative
+score: -0.148202
+ 
+ Climate Change:
+SANDERS: Sentiment 
+type: negative
+score: -0.251215
+ 
+ Foreign Approval:
+SANDERS: Sentiment 
+type: negative
+score: -0.203493
+ 
+ Immigration:
+RAMOS: Sentiment 
+type: negative
+score: -0.140694
+ 
+ Climate Change:
+RAMOS: Sentiment 
+type: negative
+score: -0.345231
+ 
+ Foreign Approval:
+RAMOS: Sentiment 
+type: negative
+score: -0.227061
+ 
+ Immigration:
+TUMULTY: Sentiment 
+type: negative
+score: -0.109085
+ 
+ Climate Change:
+TUMULTY: Sentiment 
+type: negative
+score: -0.393589
+ 
+ Foreign Approval:
+TUMULTY: Sentiment 
+type: negative
+score: -0.203493
+ 
+ Immigration:
+SANDERFS: Sentiment 
+type: negative
+score: -0.109085
+ 
+ Climate Change:
+SANDERFS: Sentiment 
+type: negative
+score: -0.345231
+ 
+ Foreign Approval:
+SANDERFS: Sentiment 
+type: negative
+score: -0.203493
+ 
+ Immigration:
+QUESTION: Sentiment 
+type: negative
+score: -0.0728039
+ 
+ Climate Change:
+QUESTION: Sentiment 
+type: negative
+score: -0.345231
+ 
+ Foreign Approval:
+QUESTION: Sentiment 
+type: negative
+score: -0.203493
+ 
+ Immigration:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.109085
+ 
+ Climate Change:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.345231
+ 
+ Foreign Approval:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.203493
+ 

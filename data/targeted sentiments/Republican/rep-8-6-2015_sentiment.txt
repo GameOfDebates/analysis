@@ -1,0 +1,315 @@
+ Wars:
+KELLY: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+KELLY: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+KELLY: Sentiment 
+type: negative
+score: -0.576892
+ 
+ Wars:
+BAIER: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+BAIER: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+BAIER: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+WALLACE: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+WALLACE: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+WALLACE: Sentiment 
+type: negative
+score: -0.540326
+ 
+ Wars:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+TRUMP: Sentiment 
+type: negative
+score: -0.451165
+ 
+ Budget or Tax Policy:
+TRUMP: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+TRUMP: Sentiment 
+type: negative
+score: -0.51096
+ 
+ Wars:
+PAUL: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+PAUL: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+PAUL: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+CARSON: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+CARSON: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+CARSON: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+RUBIO: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+RUBIO: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+RUBIO: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+BUSH: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+BUSH: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+BUSH: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+CRUZ: Sentiment 
+type: negative
+score: -0.473471
+ 
+ Budget or Tax Policy:
+CRUZ: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+CRUZ: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+WALKER: Sentiment 
+type: negative
+score: -0.476863
+ 
+ Budget or Tax Policy:
+WALKER: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+WALKER: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+HUCKABEE: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+HUCKABEE: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+HUCKABEE: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+KASICH: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+KASICH: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+KASICH: Sentiment 
+type: negative
+score: -0.621691
+ 
+ Wars:
+MALE: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+MALE: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+MALE: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+FEMALE: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+FEMALE: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+FEMALE: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+QUESTION: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+QUESTION: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+QUESTION: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+PERRY: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+PERRY: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+PERRY: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+FIORINA: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+FIORINA: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+FIORINA: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+MEGAN: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+MEGAN: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+MEGAN: Sentiment 
+type: negative
+score: -0.579038
+ 
+ Wars:
+MODERATOR: Sentiment 
+type: negative
+score: -0.484958
+ 
+ Budget or Tax Policy:
+MODERATOR: Sentiment 
+type: negative
+score: -0.577665
+ 
+ Abortion:
+MODERATOR: Sentiment 
+type: negative
+score: -0.579038
+ 

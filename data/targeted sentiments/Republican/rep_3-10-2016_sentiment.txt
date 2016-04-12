@@ -1,0 +1,150 @@
+ Cuban embargo:
+TAPPER: Sentiment 
+type: negative
+score: -0.727195
+ 
+ Budget:
+TAPPER: Sentiment 
+type: negative
+score: -0.572355
+ 
+ Climate Change:
+TAPPER: Sentiment 
+type: positive
+score: 0.326208
+ 
+ Cuban embargo:
+KASICH: Sentiment 
+type: negative
+score: -0.727195
+ 
+ Budget:
+KASICH: Sentiment 
+type: negative
+score: -0.39027
+ 
+ Climate Change:
+KASICH: Sentiment 
+type: positive
+score: 0.0378528
+ 
+ Cuban embargo:
+RUBIO: Sentiment 
+type: negative
+score: -0.736263
+ 
+ Budget:
+RUBIO: Sentiment 
+type: negative
+score: -0.561332
+ 
+ Climate Change:
+RUBIO: Sentiment 
+type: positive
+score: 0.00376807
+ 
+ Cuban embargo:
+CRUZ: Sentiment 
+type: negative
+score: -0.727195
+ 
+ Budget:
+CRUZ: Sentiment 
+type: negative
+score: -0.561332
+ 
+ Climate Change:
+CRUZ: Sentiment 
+type: positive
+score: 0.0709367
+ 
+ Cuban embargo:
+TRUMP: Sentiment 
+type: negative
+score: -0.703128
+ 
+ Budget:
+TRUMP: Sentiment 
+type: negative
+score: -0.561332
+ 
+ Climate Change:
+TRUMP: Sentiment 
+type: negative
+score: -0.0120923
+ 
+ Cuban embargo:
+DINAN: Sentiment 
+type: negative
+score: -0.727195
+ 
+ Budget:
+DINAN: Sentiment 
+type: negative
+score: -0.561332
+ 
+ Climate Change:
+DINAN: Sentiment 
+type: negative
+score: -0.0417902
+ 
+ Cuban embargo:
+KAISCH: Sentiment 
+type: negative
+score: -0.727195
+ 
+ Budget:
+KAISCH: Sentiment 
+type: negative
+score: -0.561332
+ 
+ Climate Change:
+KAISCH: Sentiment 
+type: negative
+score: -0.0417902
+ 
+ Cuban embargo:
+BASH: Sentiment 
+type: negative
+score: -0.727195
+ 
+ Budget:
+BASH: Sentiment 
+type: negative
+score: -0.50044
+ 
+ Climate Change:
+BASH: Sentiment 
+type: positive
+score: 0.0378528
+ 
+ Cuban embargo:
+HEWITT: Sentiment 
+type: negative
+score: -0.727195
+ 
+ Budget:
+HEWITT: Sentiment 
+type: negative
+score: -0.561332
+ 
+ Climate Change:
+HEWITT: Sentiment 
+type: negative
+score: -0.0417902
+ 
+ Cuban embargo:
+CUBA: Sentiment 
+type: negative
+score: -0.727195
+ 
+ Budget:
+CUBA: Sentiment 
+type: negative
+score: -0.561332
+ 
+ Climate Change:
+CUBA: Sentiment 
+type: negative
+score: -0.0417902
+ 
