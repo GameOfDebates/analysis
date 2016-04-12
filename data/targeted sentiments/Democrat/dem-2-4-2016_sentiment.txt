@@ -1,0 +1,58 @@
+ Foreign Policy:
+TODD: Sentiment 
+type: negative
+score: -0.200779
+ 
+ Hilary Clinton:
+TODD: Sentiment 
+type: positive
+score: 0.160225
+ 
+ Presidential Race:
+TODD: Sentiment 
+type: positive
+score: 0.206468
+ 
+ Foreign Policy:
+MADDOW: Sentiment 
+type: neutral
+ Hilary Clinton:
+MADDOW: Sentiment 
+type: positive
+score: 0.136463
+ 
+ Presidential Race:
+MADDOW: Sentiment 
+type: positive
+score: 0.314025
+ 
+ Foreign Policy:
+SANDERS: Sentiment 
+type: positive
+score: 0.214785
+ 
+ Hilary Clinton:
+SANDERS: Sentiment 
+type: positive
+score: 0.15922
+ 
+ Presidential Race:
+SANDERS: Sentiment 
+type: positive
+score: 0.0637262
+ 
+ Foreign Policy:
+CLINTON: Sentiment 
+type: negative
+score: -0.207772
+ 
+ Hilary Clinton:
+CLINTON: Sentiment 
+type: positive
+score: 0.175228
+ 
+ Presidential Race:
+CLINTON: Sentiment 
+type: positive
+score: 0.12445
+ 

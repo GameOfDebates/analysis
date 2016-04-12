@@ -1,0 +1,165 @@
+ Healthcare:
+DICKERSON: Sentiment 
+type: negative
+score: -0.590596
+ 
+ Supreme Court:
+DICKERSON: Sentiment 
+type: negative
+score: -0.486414
+ 
+ Mudslinging:
+DICKERSON: Sentiment 
+type: negative
+score: -0.429039
+ 
+ Healthcare:
+TRUMP: Sentiment 
+type: negative
+score: -0.590596
+ 
+ Supreme Court:
+TRUMP: Sentiment 
+type: negative
+score: -0.401062
+ 
+ Mudslinging:
+TRUMP: Sentiment 
+type: negative
+score: -0.522468
+ 
+ Healthcare:
+KASICH: Sentiment 
+type: negative
+score: -0.590596
+ 
+ Supreme Court:
+KASICH: Sentiment 
+type: negative
+score: -0.486414
+ 
+ Mudslinging:
+KASICH: Sentiment 
+type: negative
+score: -0.429039
+ 
+ Healthcare:
+CARSON: Sentiment 
+type: negative
+score: -0.590596
+ 
+ Supreme Court:
+CARSON: Sentiment 
+type: negative
+score: -0.486414
+ 
+ Mudslinging:
+CARSON: Sentiment 
+type: negative
+score: -0.429039
+ 
+ Healthcare:
+RUBIO: Sentiment 
+type: negative
+score: -0.63296
+ 
+ Supreme Court:
+RUBIO: Sentiment 
+type: negative
+score: -0.486414
+ 
+ Mudslinging:
+RUBIO: Sentiment 
+type: negative
+score: -0.429039
+ 
+ Healthcare:
+BUSH: Sentiment 
+type: negative
+score: -0.590596
+ 
+ Supreme Court:
+BUSH: Sentiment 
+type: negative
+score: -0.529519
+ 
+ Mudslinging:
+BUSH: Sentiment 
+type: negative
+score: -0.473808
+ 
+ Healthcare:
+CRUZ: Sentiment 
+type: negative
+score: -0.605148
+ 
+ Supreme Court:
+CRUZ: Sentiment 
+type: negative
+score: -0.445844
+ 
+ Mudslinging:
+CRUZ: Sentiment 
+type: negative
+score: -0.429039
+ 
+ Healthcare:
+STRASSEL: Sentiment 
+type: negative
+score: -0.590596
+ 
+ Supreme Court:
+STRASSEL: Sentiment 
+type: negative
+score: -0.488358
+ 
+ Mudslinging:
+STRASSEL: Sentiment 
+type: negative
+score: -0.429039
+ 
+ Healthcare:
+GARRETT: Sentiment 
+type: negative
+score: -0.590596
+ 
+ Supreme Court:
+GARRETT: Sentiment 
+type: negative
+score: -0.486414
+ 
+ Mudslinging:
+GARRETT: Sentiment 
+type: negative
+score: -0.429039
+ 
+ Healthcare:
+TRUMP:. Sentiment 
+type: negative
+score: -0.590596
+ 
+ Supreme Court:
+TRUMP:. Sentiment 
+type: negative
+score: -0.486414
+ 
+ Mudslinging:
+TRUMP:. Sentiment 
+type: negative
+score: -0.429039
+ 
+ Healthcare:
+GARRET: Sentiment 
+type: negative
+score: -0.590596
+ 
+ Supreme Court:
+GARRET: Sentiment 
+type: negative
+score: -0.486414
+ 
+ Mudslinging:
+GARRET: Sentiment 
+type: negative
+score: -0.429039
+ 

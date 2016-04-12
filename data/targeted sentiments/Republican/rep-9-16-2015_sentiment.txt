@@ -1,0 +1,190 @@
+ Planned Parenthood:
+TAPPER: Sentiment 
+type: negative
+score: -0.520776
+ 
+ Iran Nuclear Deal:
+TAPPER: Sentiment 
+type: negative
+score: -0.496248
+ 
+ Planned Parenthood:
+PAUL: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+PAUL: Sentiment 
+type: negative
+score: -0.498891
+ 
+ Planned Parenthood:
+HUCKABEE: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+HUCKABEE: Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+RUBIO: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+RUBIO: Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+CRUZ: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+CRUZ: Sentiment 
+type: negative
+score: -0.46481
+ 
+ Planned Parenthood:
+CARSON: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+CARSON: Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+TRUMP: Sentiment 
+type: negative
+score: -0.481797
+ 
+ Iran Nuclear Deal:
+TRUMP: Sentiment 
+type: negative
+score: -0.500974
+ 
+ Planned Parenthood:
+BUSH: Sentiment 
+type: negative
+score: -0.481797
+ 
+ Iran Nuclear Deal:
+BUSH: Sentiment 
+type: negative
+score: -0.503585
+ 
+ Planned Parenthood:
+WALKER: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+WALKER: Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+FIORINA: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+FIORINA: Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+KASICH: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+KASICH: Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.43417
+ 
+ Planned Parenthood:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+HEWITT: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+HEWITT: Sentiment 
+type: negative
+score: -0.498891
+ 
+ Planned Parenthood:
+BASH: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+BASH: Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+WALKER:: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+WALKER:: Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+TALKER: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+TALKER: Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+FIONNA: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+FIONNA: Sentiment 
+type: negative
+score: -0.49677
+ 
+ Planned Parenthood:
+MALE: Sentiment 
+type: negative
+score: -0.57349
+ 
+ Iran Nuclear Deal:
+MALE: Sentiment 
+type: negative
+score: -0.49677
+ 

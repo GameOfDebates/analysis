@@ -1,0 +1,240 @@
+ Emininent domain:
+MUIR: Sentiment 
+type: positive
+score: 0.323724
+ 
+ Hilary Clinton:
+MUIR: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+MUIR: Sentiment 
+type: positive
+score: 0.0691928
+ 
+ Emininent domain:
+RADDATZ: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+RADDATZ: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+RADDATZ: Sentiment 
+type: positive
+score: 0.0691928
+ 
+ Emininent domain:
+RUBIO: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+RUBIO: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+RUBIO: Sentiment 
+type: negative
+score: -0.135603
+ 
+ Emininent domain:
+TRUMP: Sentiment 
+type: positive
+score: 0.243957
+ 
+ Hilary Clinton:
+TRUMP: Sentiment 
+type: positive
+score: 0.318995
+ 
+ Executive Orders:
+TRUMP: Sentiment 
+type: positive
+score: 0.0691928
+ 
+ Emininent domain:
+CRUZ: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+CRUZ: Sentiment 
+type: positive
+score: 0.351703
+ 
+ Executive Orders:
+CRUZ: Sentiment 
+type: positive
+score: 0.0691928
+ 
+ Emininent domain:
+CARSON: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+CARSON: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+CARSON: Sentiment 
+type: negative
+score: -0.0143732
+ 
+ Emininent domain:
+CHRISTIE: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+CHRISTIE: Sentiment 
+type: positive
+score: 0.373059
+ 
+ Executive Orders:
+CHRISTIE: Sentiment 
+type: positive
+score: 0.0691928
+ 
+ Emininent domain:
+BUSH: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+BUSH: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+BUSH: Sentiment 
+type: positive
+score: 0.0691928
+ 
+ Emininent domain:
+KASICH: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+KASICH: Sentiment 
+type: positive
+score: 0.325481
+ 
+ Executive Orders:
+KASICH: Sentiment 
+type: positive
+score: 0.0691928
+ 
+ Emininent domain:
+HAM: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+HAM: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+HAM: Sentiment 
+type: negative
+score: -0.0319483
+ 
+ Emininent domain:
+MCELVEEN: Sentiment 
+type: positive
+score: 0.424618
+ 
+ Hilary Clinton:
+MCELVEEN: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+MCELVEEN: Sentiment 
+type: negative
+score: -0.0924022
+ 
+ Emininent domain:
+STEPHANOPOULOS: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+STEPHANOPOULOS: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+STEPHANOPOULOS: Sentiment 
+type: negative
+score: -0.0924022
+ 
+ Emininent domain:
+KARL: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+KARL: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+KARL: Sentiment 
+type: negative
+score: -0.0924022
+ 
+ Emininent domain:
+(UNKNOWN): Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+(UNKNOWN): Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.0924022
+ 
+ Emininent domain:
+O’CONNOR: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+O’CONNOR: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+O’CONNOR: Sentiment 
+type: negative
+score: -0.0924022
+ 
+ Emininent domain:
+ANNOUNCER: Sentiment 
+type: positive
+score: 0.421469
+ 
+ Hilary Clinton:
+ANNOUNCER: Sentiment 
+type: positive
+score: 0.310756
+ 
+ Executive Orders:
+ANNOUNCER: Sentiment 
+type: negative
+score: -0.0924022
+ 

@@ -1,0 +1,120 @@
+ Higher Education:
+MUIR: Sentiment 
+type: negative
+score: -0.135369
+ 
+ Syrian Refugee Crisis:
+MUIR: Sentiment 
+type: negative
+score: -0.464062
+ 
+ Tax Policy:
+MUIR: Sentiment 
+type: negative
+score: -0.222027
+ 
+ Higher Education:
+CLINTON: Sentiment 
+type: negative
+score: -0.202672
+ 
+ Syrian Refugee Crisis:
+CLINTON: Sentiment 
+type: negative
+score: -0.472008
+ 
+ Tax Policy:
+CLINTON: Sentiment 
+type: negative
+score: -0.222027
+ 
+ Higher Education:
+RADDATZ: Sentiment 
+type: negative
+score: -0.0881609
+ 
+ Syrian Refugee Crisis:
+RADDATZ: Sentiment 
+type: negative
+score: -0.468436
+ 
+ Tax Policy:
+RADDATZ: Sentiment 
+type: negative
+score: -0.0016661
+ 
+ Higher Education:
+O'MALLEY: Sentiment 
+type: negative
+score: -0.21614
+ 
+ Syrian Refugee Crisis:
+O'MALLEY: Sentiment 
+type: negative
+score: -0.454151
+ 
+ Tax Policy:
+O'MALLEY: Sentiment 
+type: negative
+score: -0.222027
+ 
+ Higher Education:
+SANDERS: Sentiment 
+type: negative
+score: -0.206939
+ 
+ Syrian Refugee Crisis:
+SANDERS: Sentiment 
+type: negative
+score: -0.468436
+ 
+ Tax Policy:
+SANDERS: Sentiment 
+type: negative
+score: -0.222027
+ 
+ Higher Education:
+LEVESQUE: Sentiment 
+type: negative
+score: -0.126801
+ 
+ Syrian Refugee Crisis:
+LEVESQUE: Sentiment 
+type: negative
+score: -0.468436
+ 
+ Tax Policy:
+LEVESQUE: Sentiment 
+type: negative
+score: -0.0016661
+ 
+ Higher Education:
+MCELVEEN: Sentiment 
+type: negative
+score: -0.126801
+ 
+ Syrian Refugee Crisis:
+MCELVEEN: Sentiment 
+type: negative
+score: -0.468436
+ 
+ Tax Policy:
+MCELVEEN: Sentiment 
+type: negative
+score: -0.0016661
+ 
+ Higher Education:
+QUESTION: Sentiment 
+type: negative
+score: -0.126801
+ 
+ Syrian Refugee Crisis:
+QUESTION: Sentiment 
+type: negative
+score: -0.468436
+ 
+ Tax Policy:
+QUESTION: Sentiment 
+type: negative
+score: -0.0016661
+ 
