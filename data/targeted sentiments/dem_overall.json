@@ -1,0 +1,262 @@
+[
+    {
+        "Economy and Wall Street Regulations": {
+            "clinton": {
+                "classification": "positive",
+                "score": 0.0546195
+            }
+        },
+        "Health Care": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.24393
+            }
+        },
+        "Taxes": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.186415
+            }
+        },
+        "src": "data/targeted sentiments/Democrat/dem-1-17-2016_sentiment.txt",
+        "date": "1/17/2016",
+        "party": "Democrat"
+    },
+    {
+        "Wars": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.527979
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.527979
+            }
+        },
+        "Gun Control": {
+            "clinton": {
+                "classification": "positive",
+                "score": 0.00638533
+            },
+            "sanders": {
+                "classification": "positive",
+                "score": 0.0773562
+            }
+        },
+        "jobs": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.0853239
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.148959
+            }
+        },
+        "src": "data/targeted sentiments/Democrat/dem-10-13-2015_sentiment.txt",
+        "date": "10/13/2015",
+        "party": "Democrat"
+    },
+    {
+        "Young Voters": {
+            "clinton": {
+                "classification": "neutral",
+                "score": 0
+            }
+        },
+        "terrorism": {
+            "clinton": {
+                "classification": "positive",
+                "score": 0.0869513
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.0106987
+            }
+        },
+        "Gun Control": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.49527
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.484007
+            }
+        },
+        "src": "data/targeted sentiments/Democrat/dem-11-14-2015_sentiment.txt",
+        "date": "11/14/2015",
+        "party": "Democrat"
+    },
+    {
+        "Higher Education": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.202672
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.206939
+            }
+        },
+        "Tax Policy": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.222027
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.222027
+            }
+        },
+        "Syrian Refugee Crisis": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.472008
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.468436
+            }
+        },
+        "src": "data/targeted sentiments/Democrat/dem-12-19-2015_sentiment.txt",
+        "date": "12/19/2015",
+        "party": "Democrat"
+    },
+    {
+        "Pharmaceutical companies": {
+            "sanders": {
+                "classification": "negative",
+                "score": -0.140201
+            }
+        },
+        "Foreign Policy": {
+            "clinton": {
+                "classification": "neutral",
+                "score": 0
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.341242
+            }
+        },
+        "Private Prison Lobbies": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.277352
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.445959
+            }
+        },
+        "src": "data/targeted sentiments/Democrat/dem-2-11-2016_sentiment.txt",
+        "date": "2/11/2016",
+        "party": "Democrat"
+    },
+    {
+        "Hilary Clinton": {
+            "clinton": {
+                "classification": "positive",
+                "score": 0.175228
+            },
+            "sanders": {
+                "classification": "positive",
+                "score": 0.15922
+            }
+        },
+        "Presidential Race": {
+            "clinton": {
+                "classification": "positive",
+                "score": 0.12445
+            },
+            "sanders": {
+                "classification": "positive",
+                "score": 0.0637262
+            }
+        },
+        "Foreign Policy": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.207772
+            },
+            "sanders": {
+                "classification": "positive",
+                "score": 0.214785
+            }
+        },
+        "src": "data/targeted sentiments/Democrat/dem-2-4-2016_sentiment.txt",
+        "date": "2/4/2016",
+        "party": "Democrat"
+    },
+    {
+        "Corporate Bailout": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.352672
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.35713
+            }
+        },
+        "2008 economic crisis": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.44525
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.392041
+            }
+        },
+        "Flint Water Crisis": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.44525
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.392041
+            }
+        },
+        "src": "data/targeted sentiments/Democrat/dem-3-6-2016_sentiment.txt",
+        "date": "3/6/2016",
+        "party": "Democrat"
+    },
+    {
+        "Climate Change": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.345231
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.251215
+            }
+        },
+        "Foreign Approval": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.133668
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.203493
+            }
+        },
+        "Immigration": {
+            "clinton": {
+                "classification": "negative",
+                "score": -0.023188
+            },
+            "sanders": {
+                "classification": "negative",
+                "score": -0.148202
+            }
+        },
+        "src": "data/targeted sentiments/Democrat/dem-3-9-2016_sentiment.txt",
+        "date": "3/9/2016",
+        "party": "Democrat"
+    }
+]

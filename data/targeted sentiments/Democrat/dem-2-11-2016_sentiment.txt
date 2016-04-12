@@ -1,43 +1,45 @@
  Private Prison Lobbies:
-WOODRUFF: Sentiment 
+WOODRUFF: Sentiment
 type: negative
 score: -0.243366
- 
+
  Foreign Policy:
-WOODRUFF: Sentiment 
+WOODRUFF: Sentiment
 type: negative
 score: -0.260514
- 
+
  Private Prison Lobbies:
-IFILL: Sentiment 
+IFILL: Sentiment
 type: positive
 score: 0.0441111
- 
+
  Foreign Policy:
-IFILL: Sentiment 
+IFILL: Sentiment
 type: negative
 score: -0.250594
- 
+
  Private Prison Lobbies:
-CLINTON: Sentiment 
+CLINTON: Sentiment
 type: negative
 score: -0.277352
- 
+
  Foreign Policy:
-CLINTON: Sentiment 
+CLINTON: Sentiment
 type: neutral
+score: 0
+
  Pharmaceutical companies:
-SANDERS: Sentiment 
+SANDERS: Sentiment
 type: negative
 score: -0.140201
- 
+
  Private Prison Lobbies:
-SANDERS: Sentiment 
+SANDERS: Sentiment
 type: negative
 score: -0.445959
- 
+
  Foreign Policy:
-SANDERS: Sentiment 
+SANDERS: Sentiment
 type: negative
 score: -0.341242
- 
+

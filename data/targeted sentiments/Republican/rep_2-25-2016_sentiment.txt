@@ -1,118 +1,137 @@
  Foreign Policy:
-BLITZER: Sentiment 
+BLITZER: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-BLITZER: Sentiment 
+BLITZER: Sentiment
 type: neutral
+score: 0
+
  Foreign Policy:
-CARSON: Sentiment 
+CARSON: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-CARSON: Sentiment 
+CARSON: Sentiment
 type: neutral
+score: 0
+
  Foreign Policy:
-KASICH: Sentiment 
+KASICH: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-KASICH: Sentiment 
+KASICH: Sentiment
 type: neutral
+score: 0
+
  Foreign Policy:
-RUBIO: Sentiment 
+RUBIO: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-RUBIO: Sentiment 
+RUBIO: Sentiment
 type: negative
 score: -0.391182
- 
+
  Foreign Policy:
-CRUZ: Sentiment 
+CRUZ: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-CRUZ: Sentiment 
+CRUZ: Sentiment
 type: neutral
  Foreign Policy:
-TRUMP: Sentiment 
+TRUMP: Sentiment
 type: negative
 score: -0.590758
- 
+
  North Korean Foreign Policy:
-TRUMP: Sentiment 
+TRUMP: Sentiment
 type: neutral
+score: 0
+
  Foreign Policy:
-TRUMP:. Sentiment 
+TRUMP: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-TRUMP:. Sentiment 
+TRUMP: Sentiment
 type: neutral
+score: 0
+
  Foreign Policy:
-CELESTE: Sentiment 
+CELESTE: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-CELESTE: Sentiment 
+CELESTE: Sentiment
 type: neutral
+score: 0
+
  Foreign Policy:
-ARRASAS: Sentiment 
+ARRASAS: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-ARRASAS: Sentiment 
+ARRASAS: Sentiment
 type: positive
 score: 0.280496
- 
+
  Foreign Policy:
-HEWITT: Sentiment 
+HEWITT: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-HEWITT: Sentiment 
+HEWITT: Sentiment
 type: neutral
+score: 0
+
  Foreign Policy:
-BASH: Sentiment 
+BASH: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-BASH: Sentiment 
+BASH: Sentiment
 type: negative
 score: -0.351993
- 
+
  Foreign Policy:
-MALE: Sentiment 
+MALE: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-MALE: Sentiment 
+MALE: Sentiment
 type: neutral
+score: 0
+
  Foreign Policy:
-CRUZ:... Sentiment 
+CRUZ: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-CRUZ:... Sentiment 
+CRUZ: Sentiment
 type: neutral
+score: 0
+
  Foreign Policy:
-ARRARAS: Sentiment 
+ARRARAS: Sentiment
 type: negative
 score: -0.65588
- 
+
  North Korean Foreign Policy:
-ARRARAS: Sentiment 
+ARRARAS: Sentiment
 type: neutral
+score: 0
