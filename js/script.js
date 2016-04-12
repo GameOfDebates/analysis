@@ -1,3 +1,7 @@
+function getDate(date) {
+    return moment(date).format("MMM D YYYY");
+}
+
 function getDuration(minutes, seconds) {
     return minutes + (seconds / 60);
 }
@@ -9,7 +13,7 @@ function transformTalkingTimesData(data) {
         for (var j = 0; j < data[i].candidates.length; j++) {
             if (currentCandidates.indexOf(data[i].candidates[j].name) >= 0) {
                 var obj = {};
-                obj.date = data[i].date;
+                obj.date = getDate(data[i].date);
                 obj.numCandidates = data[i].numCandidates;
                 obj.duration = data[i].duration;
                 obj.moderator = data[i].moderator;
@@ -22,8 +26,8 @@ function transformTalkingTimesData(data) {
     return transformed;
 }
 
-function drawTalkingTimes(jsonfile) {
-    var svg = dimple.newSvg('#talkingTime', 1000, 500);
+function drawTalkingTimes(jsonfile, svgId) {
+    var svg = dimple.newSvg(svgId, 1200, 500);
     d3.json(jsonfile, function(result) {
         var data = transformTalkingTimesData(result.data);
         var chart = new dimple.chart(svg, data);
@@ -72,7 +76,8 @@ function transformTopicsData(data) {
             if (id !== 'date' && id !== 'src') {
                 var op = {};
                 op.candidate = id;
-                op.date = data[i].date;
+                var date = getDate(data[i].date);
+                op.date = date;
                 var scoreP = normalizeScore(data[i][id].score);
                 op.score = scoreP;
                 op.classification = data[i][id].classification;
@@ -80,7 +85,7 @@ function transformTopicsData(data) {
                 transformed.push(op);
                 var on = {};
                 on.candidate = id;
-                on.date = data[i].date;
+                on.date = date;
                 on.score = 1 - scoreP;
                 on.classification = data[i][id].classification;
                 on.t = 'neg';
@@ -92,41 +97,28 @@ function transformTopicsData(data) {
 }
 
 // version 1
-function drawSentimentAnalysis(jsonfile) {
-    var svg = dimple.newSvg('#topics', 1000, 500);
+function drawSentimentAnalysis(jsonfile, svgId, isV1) {
+    var svg = dimple.newSvg(svgId, 650, 600);
     d3.json(jsonfile, function(result) {
         var data = transformTopicsData(result);
-        console.log(data);
         var chart = new dimple.chart(svg, data);
-        chart.addCategoryAxis('x', ['candidate', 'date']);
+        if (isV1)
+            chart.addCategoryAxis('x', ['candidate', 'date']);
+        else
+            chart.addCategoryAxis('x', ['date', 'candidate']);
         chart.addMeasureAxis('y', 'score');
         chart.addSeries('candidate', dimple.plot.bar);
         chart.addSeries('t', dimple.plot.bar);
-        chart.addLegend(200, 10, 380, 20, 'right');
-        chart.draw();
-    });
-}
-
-function drawSentimentAnalysis2(jsonfile) {
-    var svg = dimple.newSvg('#topics', 1000, 500);
-    d3.json(jsonfile, function(result) {
-        var data = transformTopicsData(result);
-        console.log(data);
-        var chart = new dimple.chart(svg, data);
-        chart.addCategoryAxis('x', ['date', 'candidate']);
-        chart.addMeasureAxis('y', 'score');
-        chart.addSeries('candidate', dimple.plot.bar);
-        chart.addSeries('t', dimple.plot.bar);
-        chart.addLegend(200, 10, 380, 20, 'right');
+        chart.addLegend(0, 10, 380, 20, 'right');
         chart.draw();
     });
 }
 
 $(document).ready(function() {
-    drawTalkingTimes('data/talkingtimes-rep.json');
-    drawTalkingTimes('data/talkingtimes-dem.json');
-    drawSentimentAnalysis('data/sentiments/rep_overall.json');
-    drawSentimentAnalysis('data/sentiments/dem_overall.json');
-    drawSentimentAnalysis2('data/sentiments/rep_overall.json');
-    drawSentimentAnalysis2('data/sentiments/dem_overall.json');
+    drawTalkingTimes('data/talkingtimes-rep.json', '#talkingTimeRep');
+    drawTalkingTimes('data/talkingtimes-dem.json', '#talkingTimeDem');
+    drawSentimentAnalysis('data/sentiments/rep_overall.json', '#sentimentRep1', true);
+    drawSentimentAnalysis('data/sentiments/rep_overall.json', '#sentimentRep2', false);
+    drawSentimentAnalysis('data/sentiments/dem_overall.json', '#sentimentDem1', true);
+    drawSentimentAnalysis('data/sentiments/dem_overall.json', '#sentimentDem2', false);
 });

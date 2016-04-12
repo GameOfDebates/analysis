@@ -20,37 +20,49 @@
                 <ul class="nav navbar-nav">
                     <li><a href="#intro">Introduction</a></li>
                     <li><a href="#tt">Talking Times</a></li>
-                    <li><a href="#to">Topics</a></li>
+                    <li><a href="#toR">Topics</a></li>
                 </ul>
             </div>
         </div>
     </nav>
     <div class="wrapper">
         <div id="intro" class="row">
-            <h1 class="text-center">Game of Debates</h1>
-            <p class="text-center">Meera Parat, Vishal Disawar, Pranav Boopathy, Haocheng Zhang, Emily Chao</p>
             <div class="col-md-10 col-sm-offset-1">
-                <p>The goal of our visualization is to show the overall picture of the Republican and Democratic party primary debates.</p>
-                <p>How much talking time does each candidate get to talk during a debate? What kinds of topics are discussed during these debates? Does their talking time influence the emotions conveyed in their speech during debates?</p>
-                <p>Transcripts courtesy of the <i>Washington Post</i>, <i>New York Times</i>, <i>CNN</i>, <i>CBS News</i>, and <i>Time</i>.</p>
-                <p>Talk-time data courtesy of <i>Politico</i>, <i>InsideGov</i>, <i>NPR</i>, <i>CNN</i>.</p>
+                <h1 class="text-center">Game of Debates</h1>
+                <p class="text-center">Meera Parat, Vishal Disawar, Pranav Boopathy, Haocheng Zhang, Emily Chao</p>
+                <div class="col-md-12">
+                    <p>The goal of our visualization is to show the overall picture of the Republican and Democratic party primary debates.</p>
+                    <p>How much talking time does each candidate get to talk during a debate? What kinds of topics are discussed during these debates? Does their talking time influence the emotions conveyed in their speech during debates?</p>
+                    <p>Transcripts courtesy of the <i>Washington Post</i>, <i>New York Times</i>, <i>CNN</i>, <i>CBS News</i>, and <i>Time</i>.</p>
+                    <p>Talk-time data courtesy of <i>Politico</i>, <i>InsideGov</i>, <i>NPR</i>, <i>CNN</i>.</p>
+                </div>
             </div>
         </div>
         <div id="tt" class="row">
             <h1 class="text-center">Talking Times</h1>
-            <div id="talkingTime" class="col-md-10 col-sm-offset-1">
+            <div id="talkingTimeRep" class="col-md-12">
+                <h3 class="text-center">The Republicans</h3>
+            </div>
+            <div id="talkingTimeDem" class="col-md-12">
+                <h3 class="text-center">The Democrats</h3>
             </div>
         </div>
-        <div id="to" class="row">
-            <h1 class="text-center">Topics and Sentiment Analysis</h1>
-            <div class="col-md-10 col-sm-offset-1" id="topics">
-            </div>
+        <div id="toR" class="row">
+            <h1 class="text-center">Topics and Sentiment Analysis - Republicans</h1>
+            <div class="col-md-6" id="sentimentRep1"></div>
+            <div class="col-md-6" id="sentimentRep2"></div>
+        </div>
+        <div id="toD" class="row">
+            <h1 class="text-center">Topics and Sentiment Analysis - Democrats</h1>
+            <div class="col-md-6" id="sentimentDem1"></div>
+            <div class="col-md-6" id="sentimentDem2"></div>
         </div>
     </div>
 </body>
 <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.12.0/moment.min.js"></script>
 <script src="https://d3js.org/d3.v3.min.js"></script>
 <script src="http://dimplejs.org/dist/dimple.v2.1.6.min.js"></script>
 <script src="js/script.js"></script>
