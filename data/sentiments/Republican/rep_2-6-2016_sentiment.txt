@@ -1,58 +1,63 @@
-MUIR: Sentiment 
+MUIR: Sentiment
 type: positive
 score: 0.317973
- 
-RADDATZ: Sentiment 
+
+RADDATZ: Sentiment
 type: positive
 score: 0.0212571
- 
-RUBIO: Sentiment 
+
+RUBIO: Sentiment
 type: negative
 score: -0.127586
- 
-TRUMP: Sentiment 
+
+TRUMP: Sentiment
 type: positive
 score: 0.0684866
- 
-CRUZ: Sentiment 
+
+CRUZ: Sentiment
 type: negative
 score: -0.0997012
- 
-CARSON: Sentiment 
+
+CARSON: Sentiment
 type: positive
 score: 0.078301
- 
-CHRISTIE: Sentiment 
+
+CHRISTIE: Sentiment
 type: positive
 score: 0.0328622
- 
-BUSH: Sentiment 
+
+BUSH: Sentiment
 type: negative
 score: -0.294395
- 
-KASICH: Sentiment 
+
+KASICH: Sentiment
 type: negative
 score: -0.0319922
- 
-HAM: Sentiment 
+
+HAM: Sentiment
 type: negative
 score: -0.409275
- 
-MCELVEEN: Sentiment 
+
+MCELVEEN: Sentiment
 type: positive
 score: 0.188018
- 
-STEPHANOPOULOS: Sentiment 
+
+STEPHANOPOULOS: Sentiment
 type: negative
 score: -0.346722
- 
-KARL: Sentiment 
+
+KARL: Sentiment
 type: negative
 score: -0.50059
- 
-(UNKNOWN): Sentiment 
+
+(UNKNOWN): Sentiment
 type: neutral
-O’CONNOR: Sentiment 
+score: 0
+
+O’CONNOR: Sentiment
 type: neutral
-ANNOUNCER: Sentiment 
+score: 0
+
+ANNOUNCER: Sentiment
 type: neutral
+score: 0

@@ -1,48 +1,52 @@
-BAIER: Sentiment 
+BAIER: Sentiment
 type: negative
 score: -0.010002
- 
-WALLACE: Sentiment 
+
+WALLACE: Sentiment
 type: negative
 score: -0.146706
- 
-TRUMP: Sentiment 
+
+TRUMP: Sentiment
 type: negative
 score: -0.0236188
- 
-RUBIO: Sentiment 
+
+RUBIO: Sentiment
 type: negative
 score: -0.193447
- 
-KELLY: Sentiment 
+
+KELLY: Sentiment
 type: positive
 score: 0.180693
- 
-CRUZ: Sentiment 
+
+CRUZ: Sentiment
 type: negative
 score: -0.228062
- 
-KASICH: Sentiment 
+
+KASICH: Sentiment
 type: negative
 score: -0.0804524
- 
-TRUMO: Sentiment 
+
+TRUMO: Sentiment
 type: neutral
-CUOMO: Sentiment 
+score: 0
+
+CUOMO: Sentiment
 type: negative
 score: -0.452155
- 
-(UNKNOWN): Sentiment 
+
+(UNKNOWN): Sentiment
 type: negative
 score: -0.226299
- 
-O'REILLY: Sentiment 
+
+O'REILLY: Sentiment
 type: neutral
-HANNITY: Sentiment 
+score: 0
+
+HANNITY: Sentiment
 type: negative
 score: -0.693478
- 
-UNIDENTIFIABLE Sentiment 
+
+UNIDENTIFIABLE: Sentiment
 type: negative
 score: -0.595133
- 
+

@@ -30,7 +30,9 @@
                     "minutes": 9,
                     "seconds": 11
                 }
-            ]
+            ],
+            "numCandidates": 5,
+            "duration": 120
         },
         {
             "moderator": "CBS",
@@ -52,7 +54,9 @@
                     "minutes": 21,
                     "seconds": 28
                 }
-            ]
+            ],
+            "numCandidates": 3,
+            "duration": 120
         },
         {
             "moderator": "ABC",
@@ -74,7 +78,9 @@
                     "minutes": 26,
                     "seconds": 10
                 }
-            ]
+            ],
+            "numCandidates": 3,
+            "duration": 120
         },
         {
             "moderator": "NBC",
@@ -96,80 +102,9 @@
                     "minutes": 13,
                     "seconds": 58
                 }
-            ]
-        },
-        {
-            "moderator": "CNN",
-            "party": "Democrat",
-            "date": "01/25/2016",
-            "candidates": [
-                {
-                    "name": "Bernie Sanders",
-                    "minutes": 0,
-                    "seconds": 0
-                },
-                {
-                    "name": "Hillary Clinton",
-                    "minutes": 0,
-                    "seconds": 0
-                },
-                {
-                    "name": "Martin O' Malley",
-                    "minutes": 0,
-                    "seconds": 0
-                }
-            ]
-        },
-        {
-            "moderator": "MSNBC",
-            "party": "Democrat",
-            "date": "02/04/2016",
-            "candidates": [
-                {
-                    "name": "Bernie Sanders",
-                    "minutes": 0,
-                    "seconds": 0
-                },
-                {
-                    "name": "Hillary Clinton",
-                    "minutes": 0,
-                    "seconds": 0
-                }
-            ]
-        },
-        {
-            "moderator": "PBS",
-            "party": "Democrat",
-            "date": "02/11/2016",
-            "candidates": [
-                {
-                    "name": "Bernie Sanders",
-                    "minutes": 0,
-                    "seconds": 0
-                },
-                {
-                    "name": "Hillary Clinton",
-                    "minutes": 0,
-                    "seconds": 0
-                }
-            ]
-        },
-        {
-            "moderator": "CNN",
-            "party": "Democrat",
-            "date": "03/06/2016",
-            "candidates": [
-                {
-                    "name": "Bernie Sanders",
-                    "minutes": 0,
-                    "seconds": 0
-                },
-                {
-                    "name": "Hillary Clinton",
-                    "minutes": 0,
-                    "seconds": 0
-                }
-            ]
+            ],
+            "numCandidates": 3,
+            "duraton": 120
         },
         {
             "moderator": "Univision",
@@ -186,7 +121,9 @@
                     "minutes": 39,
                     "seconds": 9
                 }
-            ]
+            ],
+            "numCandidates": 2,
+            "duration": 120
         }
     ]
 }

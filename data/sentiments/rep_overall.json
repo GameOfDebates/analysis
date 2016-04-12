@@ -1,0 +1,190 @@
+[
+    {
+        "cruz": {
+            "score": -0.144403,
+            "classification": "negative"
+        },
+        "trump": {
+            "score": 0.0372769,
+            "classification": "positive"
+        },
+        "kasich": {
+            "score": -0.111005,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep-10-28-2015_sentiment.txt",
+        "date": "10/28/2015"
+    },
+    {
+        "cruz": {
+            "score": -0.164686,
+            "classification": "negative"
+        },
+        "trump": {
+            "score": -0.10281,
+            "classification": "negative"
+        },
+        "kasich": {
+            "score": -0.354853,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep-11-10-2015_sentiment.txt",
+        "date": "11/10/2015"
+    },
+    {
+        "cruz": {
+            "score": -0.230032,
+            "classification": "negative"
+        },
+        "trump": {
+            "score": 0.0124166,
+            "classification": "positive"
+        },
+        "kasich": {
+            "score": -0.235951,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep-12-15-2015_sentiment.txt",
+        "date": "12/15/2015"
+    },
+    {
+        "cruz": {
+            "score": -0.122003,
+            "classification": "negative"
+        },
+        "trump": {
+            "score": 0.126091,
+            "classification": "positive"
+        },
+        "kasich": {
+            "score": -0.00368118,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep-8-6-2015_sentiment.txt",
+        "date": "08/06/2015"
+    },
+    {
+        "cruz": {
+            "score": -0.0158942,
+            "classification": "negative"
+        },
+        "trump": {
+            "score": 0.126799,
+            "classification": "positive"
+        },
+        "kasich": {
+            "score": -0.227118,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep-9-16-2015_sentiment.txt",
+        "date": "09/16/2015"
+    },
+    {
+        "cruz": {
+            "score": -0.131255,
+            "classification": "negative"
+        },
+        "trump": {
+            "score": 0.372838,
+            "classification": "positive"
+        },
+        "kasich": {
+            "score": -0.0385196,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep_1-14-2016_sentiment.txt",
+        "date": "01/14/2016"
+    },
+    {
+        "cruz": {
+            "score": -0.0340521,
+            "classification": "negative"
+        },
+        "kasich": {
+            "score": -0.100997,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep_1-28-2016_sentiment.txt",
+        "date": "01/28/2016"
+    },
+    {
+        "cruz": {
+            "score": -0.106548,
+            "classification": "negative"
+        },
+        "trump": {
+            "score": -0.289301,
+            "classification": "negative"
+        },
+        "kasich": {
+            "score": -0.283291,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep_2-13-2016_sentiment.txt",
+        "date": "02/13/2016"
+    },
+    {
+        "cruz": {
+            "score": 0,
+            "classification": "neutral"
+        },
+        "trump": {
+            "score": 0.329083,
+            "classification": "positive"
+        },
+        "kasich": {
+            "score": -0.0690946,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep_2-25-2016_sentiment.txt",
+        "date": "02/25/2016"
+    },
+    {
+        "cruz": {
+            "score": -0.0997012,
+            "classification": "negative"
+        },
+        "trump": {
+            "score": 0.0684866,
+            "classification": "positive"
+        },
+        "kasich": {
+            "score": -0.0319922,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep_2-6-2016_sentiment.txt",
+        "date": "02/06/2016"
+    },
+    {
+        "cruz": {
+            "score": -0.0940545,
+            "classification": "negative"
+        },
+        "trump": {
+            "score": -0.0589617,
+            "classification": "negative"
+        },
+        "kasich": {
+            "score": -0.159762,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep_3-10-2016_sentiment.txt",
+        "date": "03/10/2016"
+    },
+    {
+        "cruz": {
+            "score": -0.228062,
+            "classification": "negative"
+        },
+        "trump": {
+            "score": -0.0236188,
+            "classification": "negative"
+        },
+        "kasich": {
+            "score": -0.0804524,
+            "classification": "negative"
+        },
+        "src": "data/sentiments/Republican/rep_3-3-2016_sentiment.txt",
+        "date": "03/03/2016"
+    }
+]
