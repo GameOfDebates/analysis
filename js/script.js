@@ -86,11 +86,11 @@ function normalizeScore(score) {
     return (score + 1) / 2;
 }
 
-function transformTopicsData(data) {
+function transformOverallData(data) {
     var transformed = [];
     for (var i = 0; i < data.length; i++) {
         for (var id in data[i]) {
-            if (id !== 'date' && id !== 'src') {
+            if (id !== 'date' && id !== 'src' && id !== 'party') {
                 var op = {};
                 op.candidate = id;
                 var date = getDate(data[i].date);
@@ -113,11 +113,10 @@ function transformTopicsData(data) {
     return transformed;
 }
 
-// version 1
 function drawSentimentAnalysis(jsonfile, svgId, isV1) {
     var svg = dimple.newSvg(svgId, 650, 600);
     d3.json(jsonfile, function(result) {
-        var data = transformTopicsData(result);
+        var data = transformOverallData(result);
         var chart = new dimple.chart(svg, data);
         if (isV1)
             chart.addCategoryAxis('x', ['candidate', 'date']);
@@ -128,6 +127,21 @@ function drawSentimentAnalysis(jsonfile, svgId, isV1) {
         chart.addSeries('t', dimple.plot.bar);
         chart.addLegend(0, 10, 380, 20, 'right');
         chart.draw();
+    });
+}
+
+function transformTopicData(data) {
+    //addOptionsToDates("#debateDates" + data[i].party, data[i].date);
+}
+
+function addOptionsToDates(id, date) {
+    $(id).append('<option value="' + date + '">' + getDate(date) + '</option>');
+}
+
+function drawTopicsAnalysis(jsonfile, svgId) {
+    d3.select(svgId).selectAll("svg").remove();
+    d3.json(jsonfile, function(result) {
+
     });
 }
 

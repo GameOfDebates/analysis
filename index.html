@@ -49,15 +49,37 @@
         </div>
         <h2 class="text-center">Second Question</h2>
         <h3 class="text-center">What is the overall sentiment of each debate?</h3>
-        <div id="toR" class="row">
+        <div id="soR" class="row">
             <h4 class="text-center">The Republicans</h4>
             <div class="col-md-6" id="sentimentRep1"></div>
             <div class="col-md-6" id="sentimentRep2"></div>
         </div>
-        <div id="toD" class="row">
+        <div id="soD" class="row">
             <h4 class="text-center">The Democrats</h4>
             <div class="col-md-6" id="sentimentDem1"></div>
             <div class="col-md-6" id="sentimentDem2"></div>
+        </div>
+        <h2 class="text-center">Third Question</h2>
+        <h3 class="text-center">What topics were talked about during each debate and what was each candidate's general sentiment towards them?</h3>
+        <div id="toR" class="row">
+            <h4 class="text-center">The Republicans</h4>
+            <div class="col-md-10" id="topicModelingRep">
+                <select id="debateDatesRepublican">
+                </select>
+            </div>
+            <div class="col-md-2">
+                <table class="table table-condensed" id="topicWordsRepublican"></table>
+            </div>
+        </div>
+        <div id="toD" class="row">
+            <h4 class="text-center">The Democrats</h4>
+            <div class="col-md-10" id="topicModelingDem">
+                <select id="debateDatesDemocrat">
+                </select>
+            </div>
+            <div class="col-md-2">
+                <table class="table table-condensed" id="topicWordsDemocrat"></table>
+            </div>
         </div>
     </div>
 </body>
