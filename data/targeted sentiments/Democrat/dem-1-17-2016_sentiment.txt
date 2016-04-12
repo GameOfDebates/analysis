@@ -1,0 +1,105 @@
+ Economy and Wall Street Regulations:
+HOLT: Sentiment 
+type: positive
+score: 0.0546195
+ 
+ Health Care:
+HOLT: Sentiment 
+type: negative
+score: -0.24393
+ 
+ Taxes:
+HOLT: Sentiment 
+type: negative
+score: -0.186415
+ 
+ Economy and Wall Street Regulations:
+CLINTON: Sentiment 
+type: positive
+score: 0.0546195
+ 
+ Health Care:
+CLINTON: Sentiment 
+type: negative
+score: -0.24393
+ 
+ Taxes:
+CLINTON: Sentiment 
+type: negative
+score: -0.186415
+ 
+ Economy and Wall Street Regulations:
+O’MALLEY: Sentiment 
+type: positive
+score: 0.0546195
+ 
+ Health Care:
+O’MALLEY: Sentiment 
+type: negative
+score: -0.243283
+ 
+ Taxes:
+O’MALLEY: Sentiment 
+type: negative
+score: -0.186415
+ 
+ Economy and Wall Street Regulations:
+MITCHELL: Sentiment 
+type: positive
+score: 0.0546195
+ 
+ Health Care:
+MITCHELL: Sentiment 
+type: negative
+score: -0.24393
+ 
+ Taxes:
+MITCHELL: Sentiment 
+type: negative
+score: -0.250007
+ 
+ Economy and Wall Street Regulations:
+FRANTA: Sentiment 
+type: positive
+score: 0.0546195
+ 
+ Health Care:
+FRANTA: Sentiment 
+type: negative
+score: -0.24393
+ 
+ Taxes:
+FRANTA: Sentiment 
+type: negative
+score: -0.255696
+ 
+ Economy and Wall Street Regulations:
+TODD: Sentiment 
+type: positive
+score: 0.0546195
+ 
+ Health Care:
+TODD: Sentiment 
+type: negative
+score: -0.24393
+ 
+ Taxes:
+TODD: Sentiment 
+type: negative
+score: -0.255696
+ 
+ Economy and Wall Street Regulations:
+MILLER: Sentiment 
+type: positive
+score: 0.0546195
+ 
+ Health Care:
+MILLER: Sentiment 
+type: negative
+score: -0.24393
+ 
+ Taxes:
+MILLER: Sentiment 
+type: negative
+score: -0.255696
+ 

@@ -1,0 +1,225 @@
+ Civil Liberties:
+BAIER: Sentiment 
+type: negative
+score: -0.157113
+ 
+ Immigration:
+BAIER: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+BAIER: Sentiment 
+type: negative
+score: -0.391516
+ 
+ Civil Liberties:
+KELLY: Sentiment 
+type: negative
+score: -0.0989245
+ 
+ Immigration:
+KELLY: Sentiment 
+type: negative
+score: -0.418243
+ 
+ Mudslinging:
+KELLY: Sentiment 
+type: negative
+score: -0.391516
+ 
+ Civil Liberties:
+WALLACE: Sentiment 
+type: negative
+score: -0.157113
+ 
+ Immigration:
+WALLACE: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+WALLACE: Sentiment 
+type: negative
+score: -0.391313
+ 
+ Civil Liberties:
+CRUZ: Sentiment 
+type: negative
+score: -0.186811
+ 
+ Immigration:
+CRUZ: Sentiment 
+type: negative
+score: -0.406086
+ 
+ Mudslinging:
+CRUZ: Sentiment 
+type: negative
+score: -0.320362
+ 
+ Civil Liberties:
+RUBIO: Sentiment 
+type: negative
+score: -0.168322
+ 
+ Immigration:
+RUBIO: Sentiment 
+type: negative
+score: -0.443752
+ 
+ Mudslinging:
+RUBIO: Sentiment 
+type: negative
+score: -0.389717
+ 
+ Civil Liberties:
+BUSH: Sentiment 
+type: negative
+score: -0.110414
+ 
+ Immigration:
+BUSH: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+BUSH: Sentiment 
+type: negative
+score: -0.400021
+ 
+ Civil Liberties:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.157113
+ 
+ Immigration:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.391516
+ 
+ Civil Liberties:
+PAUL: Sentiment 
+type: negative
+score: -0.157113
+ 
+ Immigration:
+PAUL: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+PAUL: Sentiment 
+type: negative
+score: -0.391516
+ 
+ Civil Liberties:
+KASICH: Sentiment 
+type: negative
+score: -0.169551
+ 
+ Immigration:
+KASICH: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+KASICH: Sentiment 
+type: negative
+score: -0.391516
+ 
+ Civil Liberties:
+CARSON: Sentiment 
+type: negative
+score: -0.157113
+ 
+ Immigration:
+CARSON: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+CARSON: Sentiment 
+type: negative
+score: -0.391516
+ 
+ Civil Liberties:
+PAUL:. Sentiment 
+type: negative
+score: -0.157113
+ 
+ Immigration:
+PAUL:. Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+PAUL:. Sentiment 
+type: negative
+score: -0.391516
+ 
+ Civil Liberties:
+MEGYN: Sentiment 
+type: negative
+score: -0.157113
+ 
+ Immigration:
+MEGYN: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+MEGYN: Sentiment 
+type: negative
+score: -0.391516
+ 
+ Civil Liberties:
+QUESTION: Sentiment 
+type: negative
+score: -0.157113
+ 
+ Immigration:
+QUESTION: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+QUESTION: Sentiment 
+type: negative
+score: -0.391516
+ 
+ Civil Liberties:
+CURZ: Sentiment 
+type: negative
+score: -0.157113
+ 
+ Immigration:
+CURZ: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+CURZ: Sentiment 
+type: negative
+score: -0.391516
+ 
+ Civil Liberties:
+WALLLACE: Sentiment 
+type: negative
+score: -0.157113
+ 
+ Immigration:
+WALLLACE: Sentiment 
+type: negative
+score: -0.453762
+ 
+ Mudslinging:
+WALLLACE: Sentiment 
+type: negative
+score: -0.391516
+ 

@@ -1,0 +1,195 @@
+ Trade Policy:
+BAKER: Sentiment 
+type: positive
+score: 0.136085
+ 
+ Foreign Approval:
+BAKER: Sentiment 
+type: negative
+score: -0.411327
+ 
+ Military:
+BAKER: Sentiment 
+type: positive
+score: 0.283798
+ 
+ Trade Policy:
+CAVUTO: Sentiment 
+type: positive
+score: 0.121548
+ 
+ Foreign Approval:
+CAVUTO: Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+CAVUTO: Sentiment 
+type: positive
+score: 0.283798
+ 
+ Trade Policy:
+TRUMP: Sentiment 
+type: positive
+score: 0.121548
+ 
+ Foreign Approval:
+TRUMP: Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+TRUMP: Sentiment 
+type: positive
+score: 0.283798
+ 
+ Trade Policy:
+CARSON: Sentiment 
+type: positive
+score: 0.121548
+ 
+ Foreign Approval:
+CARSON: Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+CARSON: Sentiment 
+type: positive
+score: 0.283798
+ 
+ Trade Policy:
+RUBIO: Sentiment 
+type: positive
+score: 0.121548
+ 
+ Foreign Approval:
+RUBIO: Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+RUBIO: Sentiment 
+type: positive
+score: 0.283798
+ 
+ Trade Policy:
+BARTIROMO: Sentiment 
+type: positive
+score: 0.160009
+ 
+ Foreign Approval:
+BARTIROMO: Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+BARTIROMO: Sentiment 
+type: positive
+score: 0.283798
+ 
+ Trade Policy:
+KASICH: Sentiment 
+type: positive
+score: 0.0725992
+ 
+ Foreign Approval:
+KASICH: Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+KASICH: Sentiment 
+type: positive
+score: 0.283798
+ 
+ Trade Policy:
+CRUZ: Sentiment 
+type: positive
+score: 0.142554
+ 
+ Foreign Approval:
+CRUZ: Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+CRUZ: Sentiment 
+type: positive
+score: 0.396446
+ 
+ Trade Policy:
+BUSH: Sentiment 
+type: positive
+score: 0.0292857
+ 
+ Foreign Approval:
+BUSH: Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+BUSH: Sentiment 
+type: positive
+score: 0.283798
+ 
+ Trade Policy:
+FIORINA: Sentiment 
+type: positive
+score: 0.121548
+ 
+ Foreign Approval:
+FIORINA: Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+FIORINA: Sentiment 
+type: positive
+score: 0.283798
+ 
+ Trade Policy:
+PAUL: Sentiment 
+type: positive
+score: 0.121548
+ 
+ Foreign Approval:
+PAUL: Sentiment 
+type: negative
+score: -0.453533
+ 
+ Military:
+PAUL: Sentiment 
+type: positive
+score: 0.338575
+ 
+ Trade Policy:
+(UNKNOWN): Sentiment 
+type: positive
+score: 0.121548
+ 
+ Foreign Approval:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+(UNKNOWN): Sentiment 
+type: positive
+score: 0.283798
+ 
+ Trade Policy:
+MALE: Sentiment 
+type: positive
+score: 0.121548
+ 
+ Foreign Approval:
+MALE: Sentiment 
+type: negative
+score: -0.419424
+ 
+ Military:
+MALE: Sentiment 
+type: positive
+score: 0.283798
+ 

@@ -1,0 +1,285 @@
+ Jobs:
+QUINTANILLA: Sentiment 
+type: negative
+score: -0.492982
+ 
+ Laissez-faire economy:
+QUINTANILLA: Sentiment 
+type: negative
+score: -0.236582
+ 
+ Social Security:
+QUINTANILLA: Sentiment 
+type: negative
+score: -0.193631
+ 
+ Jobs:
+KASICH: Sentiment 
+type: negative
+score: -0.47449
+ 
+ Laissez-faire economy:
+KASICH: Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+KASICH: Sentiment 
+type: negative
+score: -0.252629
+ 
+ Jobs:
+HUCKABEE: Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+HUCKABEE: Sentiment 
+type: negative
+score: -0.229366
+ 
+ Social Security:
+HUCKABEE: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+BUSH: Sentiment 
+type: negative
+score: -0.481153
+ 
+ Laissez-faire economy:
+BUSH: Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+BUSH: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+RUBIO: Sentiment 
+type: negative
+score: -0.492982
+ 
+ Laissez-faire economy:
+RUBIO: Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+RUBIO: Sentiment 
+type: negative
+score: -0.193631
+ 
+ Jobs:
+TRUMP: Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+TRUMP: Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+TRUMP: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+CARSON: Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+CARSON: Sentiment 
+type: negative
+score: -0.224575
+ 
+ Social Security:
+CARSON: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+FIORINA: Sentiment 
+type: negative
+score: -0.459207
+ 
+ Laissez-faire economy:
+FIORINA: Sentiment 
+type: negative
+score: -0.239782
+ 
+ Social Security:
+FIORINA: Sentiment 
+type: negative
+score: -0.277863
+ 
+ Jobs:
+CRUZ: Sentiment 
+type: negative
+score: -0.474458
+ 
+ Laissez-faire economy:
+CRUZ: Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+CRUZ: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.237481
+ 
+ Social Security:
+CHRISTIE: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+PAUL: Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+PAUL: Sentiment 
+type: negative
+score: -0.231431
+ 
+ Social Security:
+PAUL: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+HARWOOD: Sentiment 
+type: negative
+score: -0.544172
+ 
+ Laissez-faire economy:
+HARWOOD: Sentiment 
+type: negative
+score: -0.240056
+ 
+ Social Security:
+HARWOOD: Sentiment 
+type: negative
+score: -0.193631
+ 
+ Jobs:
+QUICK: Sentiment 
+type: negative
+score: -0.476279
+ 
+ Laissez-faire economy:
+QUICK: Sentiment 
+type: negative
+score: -0.230972
+ 
+ Social Security:
+QUICK: Sentiment 
+type: negative
+score: -0.193631
+ 
+ Jobs:
+MALE: Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+MALE: Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+MALE: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+CRAMER: Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+CRAMER: Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+CRAMER: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+SANTELLI: Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+SANTELLI: Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+SANTELLI: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+EPPERSON: Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+EPPERSON: Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+EPPERSON: Sentiment 
+type: negative
+score: -0.223129
+ 
+ Jobs:
+HARMAN: Sentiment 
+type: negative
+score: -0.468061
+ 
+ Laissez-faire economy:
+HARMAN: Sentiment 
+type: negative
+score: -0.219171
+ 
+ Social Security:
+HARMAN: Sentiment 
+type: negative
+score: -0.223129
+ 

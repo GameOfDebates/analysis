@@ -1,0 +1,180 @@
+ Gun Control:
+COOPER: Sentiment 
+type: positive
+score: 0.0601268
+ 
+ Wars:
+COOPER: Sentiment 
+type: negative
+score: -0.527979
+ 
+ jobs:
+COOPER: Sentiment 
+type: negative
+score: -0.0356962
+ 
+ Gun Control:
+CHAFEE: Sentiment 
+type: positive
+score: 0.157009
+ 
+ Wars:
+CHAFEE: Sentiment 
+type: negative
+score: -0.527979
+ 
+ jobs:
+CHAFEE: Sentiment 
+type: positive
+score: 0.0885645
+ 
+ Gun Control:
+WEBB: Sentiment 
+type: positive
+score: 0.157009
+ 
+ Wars:
+WEBB: Sentiment 
+type: negative
+score: -0.526394
+ 
+ jobs:
+WEBB: Sentiment 
+type: negative
+score: -0.119099
+ 
+ Gun Control:
+O'MALLEY: Sentiment 
+type: positive
+score: 0.227342
+ 
+ Wars:
+O'MALLEY: Sentiment 
+type: negative
+score: -0.535815
+ 
+ jobs:
+O'MALLEY: Sentiment 
+type: negative
+score: -0.0356962
+ 
+ Gun Control:
+SANDERS: Sentiment 
+type: positive
+score: 0.0773562
+ 
+ Wars:
+SANDERS: Sentiment 
+type: negative
+score: -0.527979
+ 
+ jobs:
+SANDERS: Sentiment 
+type: negative
+score: -0.148959
+ 
+ Gun Control:
+CLINTON: Sentiment 
+type: positive
+score: 0.00638533
+ 
+ Wars:
+CLINTON: Sentiment 
+type: negative
+score: -0.527979
+ 
+ jobs:
+CLINTON: Sentiment 
+type: negative
+score: -0.0853239
+ 
+ Gun Control:
+BASH: Sentiment 
+type: positive
+score: 0.157009
+ 
+ Wars:
+BASH: Sentiment 
+type: negative
+score: -0.527979
+ 
+ jobs:
+BASH: Sentiment 
+type: positive
+score: 0.013695
+ 
+ Gun Control:
+(UNKNOWN): Sentiment 
+type: positive
+score: 0.157009
+ 
+ Wars:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.527979
+ 
+ jobs:
+(UNKNOWN): Sentiment 
+type: positive
+score: 0.013695
+ 
+ Gun Control:
+LEMON: Sentiment 
+type: positive
+score: 0.157009
+ 
+ Wars:
+LEMON: Sentiment 
+type: negative
+score: -0.527979
+ 
+ jobs:
+LEMON: Sentiment 
+type: positive
+score: 0.013695
+ 
+ Gun Control:
+WILKINS: Sentiment 
+type: positive
+score: 0.157009
+ 
+ Wars:
+WILKINS: Sentiment 
+type: negative
+score: -0.527979
+ 
+ jobs:
+WILKINS: Sentiment 
+type: positive
+score: 0.013695
+ 
+ Gun Control:
+LOPEZ: Sentiment 
+type: positive
+score: 0.157009
+ 
+ Wars:
+LOPEZ: Sentiment 
+type: negative
+score: -0.527979
+ 
+ jobs:
+LOPEZ: Sentiment 
+type: positive
+score: 0.013695
+ 
+ Gun Control:
+QUESTION: Sentiment 
+type: positive
+score: 0.157009
+ 
+ Wars:
+QUESTION: Sentiment 
+type: negative
+score: -0.527979
+ 
+ jobs:
+QUESTION: Sentiment 
+type: positive
+score: 0.013695
+ 

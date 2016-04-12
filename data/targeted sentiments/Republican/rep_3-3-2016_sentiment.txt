@@ -1,0 +1,190 @@
+s victory:
+BAIER: Sentiment 
+type: positive
+score: 0.116468
+ 
+ Trade Policy:
+BAIER: Sentiment 
+type: positive
+score: 0.152072
+ 
+ RNC:
+BAIER: Sentiment 
+type: negative
+score: -0.320519
+ 
+s victory:
+WALLACE: Sentiment 
+type: positive
+score: 0.127618
+ 
+ Trade Policy:
+WALLACE: Sentiment 
+type: negative
+score: -0.0056175
+ 
+ RNC:
+WALLACE: Sentiment 
+type: negative
+score: -0.320519
+ 
+s victory:
+TRUMP: Sentiment 
+type: positive
+score: 0.348642
+ 
+ Trade Policy:
+TRUMP: Sentiment 
+type: positive
+score: 0.206516
+ 
+s victory:
+RUBIO: Sentiment 
+type: positive
+score: 0.139815
+ 
+ Trade Policy:
+RUBIO: Sentiment 
+type: positive
+score: 0.642446
+ 
+ RNC:
+RUBIO: Sentiment 
+type: negative
+score: -0.320519
+ 
+s victory:
+KELLY: Sentiment 
+type: positive
+score: 0.237567
+ 
+ Trade Policy:
+KELLY: Sentiment 
+type: positive
+score: 0.615257
+ 
+ RNC:
+KELLY: Sentiment 
+type: negative
+score: -0.320519
+ 
+s victory:
+CRUZ: Sentiment 
+type: negative
+score: -0.0157643
+ 
+ Trade Policy:
+CRUZ: Sentiment 
+type: positive
+score: 0.615257
+ 
+ RNC:
+CRUZ: Sentiment 
+type: negative
+score: -0.320519
+ 
+s victory:
+KASICH: Sentiment 
+type: positive
+score: 0.127644
+ 
+ Trade Policy:
+KASICH: Sentiment 
+type: positive
+score: 0.152072
+ 
+ RNC:
+KASICH: Sentiment 
+type: negative
+score: -0.448922
+ 
+s victory:
+TRUMO: Sentiment 
+type: positive
+score: 0.127644
+ 
+ Trade Policy:
+TRUMO: Sentiment 
+type: positive
+score: 0.152072
+ 
+ RNC:
+TRUMO: Sentiment 
+type: negative
+score: -0.320519
+ 
+s victory:
+CUOMO: Sentiment 
+type: positive
+score: 0.127644
+ 
+ Trade Policy:
+CUOMO: Sentiment 
+type: positive
+score: 0.152072
+ 
+ RNC:
+CUOMO: Sentiment 
+type: negative
+score: -0.320519
+ 
+s victory:
+(UNKNOWN): Sentiment 
+type: positive
+score: 0.137616
+ 
+ Trade Policy:
+(UNKNOWN): Sentiment 
+type: positive
+score: 0.152072
+ 
+ RNC:
+(UNKNOWN): Sentiment 
+type: negative
+score: -0.320519
+ 
+s victory:
+O'REILLY: Sentiment 
+type: positive
+score: 0.127644
+ 
+ Trade Policy:
+O'REILLY: Sentiment 
+type: positive
+score: 0.152072
+ 
+ RNC:
+O'REILLY: Sentiment 
+type: negative
+score: -0.320519
+ 
+s victory:
+HANNITY: Sentiment 
+type: positive
+score: 0.127644
+ 
+ Trade Policy:
+HANNITY: Sentiment 
+type: positive
+score: 0.152072
+ 
+ RNC:
+HANNITY: Sentiment 
+type: negative
+score: -0.320519
+ 
+s victory:
+MALE: Sentiment 
+type: positive
+score: 0.127644
+ 
+ Trade Policy:
+MALE: Sentiment 
+type: positive
+score: 0.152072
+ 
+ RNC:
+MALE: Sentiment 
+type: negative
+score: -0.320519
+ 

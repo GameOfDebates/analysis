@@ -1,0 +1,96 @@
+ terrorism:
+DICKERSON: Sentiment 
+type: negative
+score: -0.0106987
+ 
+ Gun Control:
+DICKERSON: Sentiment 
+type: negative
+score: -0.488478
+ 
+ Young Voters:
+DICKERSON: Sentiment 
+type: neutral
+ terrorism:
+SANDERS: Sentiment 
+type: negative
+score: -0.0106987
+ 
+ Gun Control:
+SANDERS: Sentiment 
+type: negative
+score: -0.484007
+ 
+ terrorism:
+CLINTON: Sentiment 
+type: positive
+score: 0.0869513
+ 
+ Gun Control:
+CLINTON: Sentiment 
+type: negative
+score: -0.49527
+ 
+ Young Voters:
+CLINTON: Sentiment 
+type: neutral
+ terrorism:
+O'MALLEY: Sentiment 
+type: negative
+score: -0.0106987
+ 
+ Gun Control:
+O'MALLEY: Sentiment 
+type: negative
+score: -0.484007
+ 
+ terrorism:
+CORDES: Sentiment 
+type: negative
+score: -0.0106987
+ 
+ Gun Control:
+CORDES: Sentiment 
+type: negative
+score: -0.484007
+ 
+ terrorism:
+COONEY: Sentiment 
+type: negative
+score: -0.0106987
+ 
+ Gun Control:
+COONEY: Sentiment 
+type: negative
+score: -0.484007
+ 
+ terrorism:
+OBRADOVICH: Sentiment 
+type: negative
+score: -0.0106987
+ 
+ Gun Control:
+OBRADOVICH: Sentiment 
+type: negative
+score: -0.484007
+ 
+ terrorism:
+ANNOUNCER: Sentiment 
+type: negative
+score: -0.0106987
+ 
+ Gun Control:
+ANNOUNCER: Sentiment 
+type: negative
+score: -0.484007
+ 
+ terrorism:
+GARRETT: Sentiment 
+type: negative
+score: -0.0106987
+ 
+ Gun Control:
+GARRETT: Sentiment 
+type: negative
+score: -0.484007
+ 
